@@ -1,0 +1,2279 @@
+[
+  {
+    "name": "Great Pyramid of Giza",
+    "location": "Giza, Egypt, Africa",
+    "summary": "The largest Egyptian pyramid, it served as the tomb of pharaoh Khufu, who ruled during the Fourth Dynasty of the Old Kingdom. The pyramid is the oldest of the Seven Wonders of the Ancient World, and the only wonder that has remained largely intact.",
+    "build_year": -2560,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "britannica": "https://www.britannica.com/place/Great-Pyramid-of-Giza",
+      "google_maps": "https://www.google.com/maps/place/The+Great+Pyramid+of+Giza/@29.9791705,31.1342046,17z/data=!3m1!4b1!4m6!3m5!1s0x14584587ac8f291b:0x810c2f3fa2a52424!8m2!3d29.9791705!4d31.1342046!16zL20vMDM2bWs",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294202-d308887-Reviews-Great_Pyramid_of_Cheops_Khufu-Giza_Giza_Governorate.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+        "https://cdn.britannica.com/75/178475-050-E9212E3D/Pyramid-of-Khufu-Giza-Egypt.jpg",
+        "https://cdn.britannica.com/06/122506-050-C8E03A8A/Pyramid-of-Khafre-Giza-Egypt.jpg",
+        "https://cdn.britannica.com/87/194387-050-CC38D282/Cross-section-interior-Great-Pyramid-of-Khufu.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Stonehenge",
+    "location": "Salisbury, England, Europe",
+    "summary": "A prehistoric megalithic structure, consisting of an outer ring of vertical sarsen standing stones, each around 4m high and 2.1m wide, topped by connecting horizontal lintel stones. It is one of the most famous landmarks in the United Kingdom, and is regarded as a British cultural icon.",
+    "build_year": -2400,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Stonehenge",
+      "britannica": "https://www.britannica.com/place/Stonehenge",
+      "google_maps": "https://www.google.com/maps/place/Stonehenge/@51.1789754,-1.8291006,16.67z/data=!4m6!3m5!1s0x4873e63b850af611:0x979170e2bcd3d2dd!8m2!3d51.178882!4d-1.826215!16zL20vMDZ3Zmc",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186414-d188527-Reviews-Stonehenge-Salisbury_Wiltshire_England.html",
+      "images": [
+        "https://cdn.britannica.com/01/153601-050-CC20C4EB/Stonehenge-Salisbury-Plain-England-Wiltshire.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+        "https://cdn.britannica.com/67/123467-050-E8AB40DD/Stonehenge-example-post-and-lintel-construction.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Stonehenge_render.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Newgrange",
+    "location": "Drogheda, Ireland, Europe",
+    "summary": "An exceptionally grand passage tomb built during the Neolithic Period, making it older than Stonehenge and the Egyptian pyramids. Perhaps it's most famous feature is its alignment so that the rising sun on the winter solstice shines through a roofbox above the entrance and floods the inner chamber with light.",
+    "build_year": -3200,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Newgrange",
+      "britannica": "https://www.britannica.com/place/Newgrange",
+      "google_maps": "https://www.google.com/maps/place/Newgrange/@53.694715,-6.478072,17z/data=!3m1!4b1!4m6!3m5!1s0x48673862a2daed2f:0xcc850ffdbed08c17!8m2!3d53.6947119!4d-6.4754917!16zL20vMDFicXp5",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g804266-d10326114-Reviews-Newgrange-Donore_County_Meath.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0f/Irelands_history.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Newgrange%2C_Meath.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7c/5b/2d/the-burial-mound.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Wakeman_Newgrange_tumulus_chamber_cross_section.png"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Lighthouse of Alexandria",
+    "location": "Alexandria, Egypt, Africa",
+    "summary": "One of the Seven Wonders of the Ancient World, for many centuries it was one of the tallest man-made structures in the world. It was the third-longest surviving ancient wonder, after the Mausoleum at Halicarnassus and the extant Great Pyramid of Giza, surviving in part until 1480.",
+    "build_year": -280,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+      "britannica": "https://www.britannica.com/place/lighthouse-of-Alexandria",
+      "google_maps": "https://www.google.com/maps/place/Lighthouse+of+Alexandria/@34.4561224,-65.4230684,4z/data=!4m10!1m2!2m1!1sLighthouse+of+Alexandria!3m6!1s0x14f5c59b6eccdc31:0x39a6e16955846edf!8m2!3d31.214191!4d29.8913121!15sChhMaWdodGhvdXNlIG9mIEFsZXhhbmRyaWGSARNoaXN0b3JpY2FsX2xhbmRtYXJr4AEA!16s%2Fg%2F11t8d9z365",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d6475508-Reviews-Lighthouse_of_Alexandria-Alexandria_Alexandria_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/07/172307-050-4D3BA855/Pharos-Alexandria.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/84/03/f8/caption.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hanging Gardens of Babylon",
+    "location": "Mahawii, Iraq, Asia",
+    "summary": "The only of the Seven Wonders of the Ancient World for which the location has not been definitively established. They were described as a remarkable feat of engineering with an ascending series of tiered gardens containing a wide variety of trees, shrubs, and vines, resembling a large green mountain constructed of mud bricks.",
+    "build_year": -600,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+      "britannica": "https://www.britannica.com/place/Hanging-Gardens-of-Babylon",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://cdn.britannica.com/39/1139-050-71C43AEE/re-creation-artist-Hanging-Gardens-of-Babylon-world.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg",
+        "https://cdn.britannica.com/55/168955-050-C3BD4CDD/Hanging-Gardens-of-Babylon-reconstruction.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hagia Sophia",
+    "location": "Istanbul, Turkey, Asia",
+    "summary": "A mosque and former church serving as a major cultural and historical site in Istanbul, Turkey. It is the last of three church buildings to be successively erected on the site by the Eastern Roman Empire. After the fall of Constantinople in 1453, it served as a mosque until 1935, when it became a museum.",
+    "build_year": 537,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "britannica": "https://www.britannica.com/place/Hagia-Sophia",
+      "google_maps": "https://www.google.com/maps/place/Hagia+Sophia+Grand+Mosque/@41.0085869,28.9752987,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9be92011c27:0x236e6f6f37444fae!8m2!3d41.008583!4d28.980175!16zL20vMGJyNXE",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293974-d294497-Reviews-Hagia_Sophia_Mosque-Istanbul.html",
+      "images": [
+        "https://cdn.britannica.com/03/189803-050-871B95C4/Hagia-Sophia-Istanbul.jpg",
+        "https://cdn.britannica.com/58/93158-050-7719EB2B/view-Blue-Mosque-Istanbul-Hagia-Sophia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7f/77/72/caption.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hagia_Sophia%2C_Constantinople%2C_Turkey%2C_ca._1897.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Colossus of Rhodes",
+    "location": "Rhodes, Greece, Europe",
+    "summary": "A statue of the Greek sun god Helios, erected to celebrate the successful defence against an attack by Demetrius I of Macedon. It is one of the Seven Wonders of the Ancient World, and is estimated to have been 33m tall, making it the tallest statue in the ancient world. It collapsed during the earthquake of 226 BC, and in accordance with the Oracle of Delphi, the Rhodians did not rebuild it.",
+    "build_year": -353,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+      "britannica": "https://www.britannica.com/place/Colossus-of-Rhodes",
+      "google_maps": "https://www.google.com/maps/place/Colossus+of+Rhodes/@36.4510475,28.2232986,17z/data=!3m1!4b1!4m6!3m5!1s0x1495619a72df1397:0xe0e598a70e6bd9c6!8m2!3d36.4510432!4d28.2258789!16s%2Fg%2F11fl5qn36d",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g635613-d199078-Reviews-Colossus_of_Rhodes-Rhodes_Town_Rhodes_Dodecanese_South_Aegean.html",
+      "images": [
+        "https://cdn.britannica.com/81/39481-050-48B24E02/conception-Artist-Chares-of-Lindos-Colossus-Rhodes-1875.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rhodes0211.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandraki_colosseus_harbour_rhodes.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Statue of Zeus at Olympia",
+    "location": "Olympia, Greece, Europe",
+    "summary": "One of the Seven Wonders of the Ancient World, it depicted a seated Zeus, and stood 12.4m tall. The statue was lost and destroyed before the end of the 6th century AD, with conflicting accounts of the date and circumstances. Details of its form are known only from ancient Greek descriptions and representations on coins and art.",
+    "build_year": -466,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia",
+      "britannica": "https://www.britannica.com/place/Statue-of-Zeus",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Zeus+at+Olympia/@37.6446189,21.6233446,17z/data=!3m1!4b1!4m6!3m5!1s0x136093d9fcbe23df:0xc04fa5eb15ec28a7!8m2!3d37.6446147!4d21.6259249!16s%2Fg%2F11s37fgvhf",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189487-d24187996-Reviews-Statue_Of_Zeus_At_Olympia-Olympia_Elis_Region_West_Greece.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+        "https://cdn.britannica.com/68/168968-050-B7EB85D5/Statue-Zeus-Olympia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/14/0d/2d/statue-of-zeus-at-olympia.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Temple of Artemis at Ephesus",
+    "location": "Selƈuk, Turkey, Asia",
+    "summary": "One of the Seven Wonders of the Ancient World, this was a Greek temple dedicated to an ancient, localised form of the goddess Artemis. It was located in the ancient Greek city of Ephesus, and by AD 401 it had been ruined or destroyed, with only foundations and fragments of the last temple remaining at the site.",
+    "build_year": -550,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+      "britannica": "https://www.britannica.com/place/Temple-of-Artemis-temple-Ephesus-Turkey",
+      "google_maps": "https://www.google.com/maps/place/The+Temple+of+Artemis/@37.95203,27.3722712,15.67z/data=!4m6!3m5!1s0x14b94d56fca57281:0xfaa6e359607f4524!8m2!3d37.9495785!4d27.3639125!16zL20vMGo0dl8",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g293976-d318896-Reviews-The_Temple_of_Artemis-Selcuk_Izmir_Province_Turkish_Aegean_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/51/168951-050-FF56AB5F/Temple-of-Artemis-Ephesus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Miniaturk_009.jpg",
+        "https://cdn.britannica.com/13/127013-050-ECD27F0E/Site-Temple-of-Artemis-Turkey-Ephesus.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "location": "San Francisco, USA, North America",
+    "summary": "A suspension bridge spanning the Golden Gate, the strait connecting San Francisco Bay and the Pacific Ocean. It has a total length of 2.74km with a longest span of 1.27km. Recognized by the American Society of Civil Engineers as one of the Seven Wonders of the Modern World, the bridge is one of the most internationally recognized symbols of San Francisco and California.",
+    "build_year": 1933,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+      "britannica": "https://www.britannica.com/place/Golden-Gate-Bridge",
+      "google_maps": "https://www.google.com/maps/place/Golden+Gate+Bridge/@37.8199109,-122.4785598,17z/data=!3m1!4b1!4m6!3m5!1s0x808586deffffffc3:0xcded139783705509!8m2!3d37.8199109!4d-122.4785598!16zL20vMDM1cDM",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60713-d104675-Reviews-Golden_Gate_Bridge-San_Francisco_California.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+        "https://cdn.britannica.com/76/94476-050-12BB1BA2/Golden-Gate-Bridge-San-Francisco.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Below_Golden_Gate_Bridge.jpeg",
+        "https://cdn.britannica.com/75/164175-050-EB8FA18B/Building-towers-Golden-Gate-Bridge-construction-1934.jpg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "CN Tower",
+    "location": "Toronto, Canada, North America",
+    "summary": "A 553.3m tall concrete communications and observation tower in Toronto, Ontario, Canada. It held the record for the world's tallest free-standing structure for 32 years, from 1975 until 2007, when it was surpassed by the Burj Khalifa, and was the world's tallest tower until 2009 when it was surpassed by the Canton Tower.",
+    "build_year": 1973,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/CN_Tower",
+      "britannica": "https://www.britannica.com/place/CN-Tower",
+      "google_maps": "https://www.google.com/maps/place/CN+Tower/@43.6425701,-79.3896371,17z/data=!3m2!4b1!5s0x882b34d819a55ff7:0xad7cf7bcaf4e239b!4m6!3m5!1s0x882b34d68bf33a9b:0x15edd8c4de1c7581!8m2!3d43.6425662!4d-79.3870568!16zL20vMDF0d3M",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g155019-d155483-Reviews-CN_Tower-Toronto_Ontario.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/Toronto_-_ON_-_Toronto_Harbourfront7.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2d/Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7a/7f/df/photo1jpg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/CN_Tower_under_construction.jpg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders",
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Channel Tunnel",
+    "location": "English Channel, Europe",
+    "summary": "A 50.46km undersea railway tunnel, opened in 1994, that connects England with France beneath the English Channel at the Strait of Dover. It is the only fixed link between the island of Great Britain and the European mainland. In 1994, the American Society of Civil Engineers elected the tunnel as one of the Seven Wonders of the Modern World.",
+    "build_year": 1991,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+      "britannica": "https://www.britannica.com/place/Channel-Tunnel",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg",
+        "https://cdn.britannica.com/60/200560-050-5483EA30/train-Channel-Tunnel-Folkestone-England.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/A_d%C3%A9li_pajzs_a_keresztez%C5%91kamr%C3%A1ban.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Channel_Tunnel_geological_profile_1.svg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders"
+    ]
+  },
+  {
+    "name": "Delta Works",
+    "location": "The Netherlands, Europe",
+    "summary": "A series of construction projects in the southwest of the Netherlands to protect a large area of land around the Rhine–Meuse–Scheldt delta from the sea. The works consist of dams, sluices, locks, dykes, levees, and storm surge barriers. Along with the Zuiderzee Works, the Delta Works have been declared one of the Seven Wonders of the Modern World by the American Society of Civil Engineers.",
+    "build_year": 1986,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Delta_Works",
+      "britannica": "https://www.britannica.com/place/Delta-Works",
+      "google_maps": null,
+      "trip_advisor": null,
+      "images": [
+        "https://www.touristsecrets.com/wp-content/uploads/2023/09/netherlands-delta-works-wonder-of-the-modern-world-guide-1694277268.jpg",
+        "https://cdn.britannica.com/71/149771-050-78501528/Oosterscheldedam-Eastern-Schelde-Netherlands.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/1-Stormvloedkering_Hollandse_IJssel-Algerabrug--DSC_0179.jpg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders"
+    ]
+  },
+  {
+    "name": "Panama Canal",
+    "location": "Panama, North America",
+    "summary": "An artificial 82km waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean, greatly reducing the time for ships to travel between them. It is one of the largest and most difficult engineering projects ever undertaken, and was recognized as one of the Seven Wonders of the Modern World by the American Society of Civil Engineers in 1974.",
+    "build_year": 1914,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "britannica": "https://www.britannica.com/place/Panama-Canal",
+      "google_maps": "https://www.google.com/maps/place/Panama+Canal/@9.1440091,-80.040663,11z/data=!3m1!4b1!4m6!3m5!1s0x8fab5f4b31cd492d:0xd9dd11e7a14a0960!8m2!3d9.1223491!4d-79.7311627!16zL20vMDY2cmw",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294480-d299921-Reviews-Panama_Canal-Panama_City_Panama_Province.html",
+      "images": [
+        "https://cdn.britannica.com/81/13081-050-9C3E9E28/Passenger-cruise-ship-Panama-Canal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/32/New_Panama_Canal.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/9c/1d/fc/transito-por-la-8-maravilla.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Missouri_panama_canal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/SS_Ancon_entering_west_chamber_cph.3b17471u.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Panama_Canal_Map_EN.png/288px-Panama_Canal_Map_EN.png"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Empire State Building",
+    "location": "New York, USA, North America",
+    "summary": "A 102-story Art Deco skyscraper in Manhattan, New York City, with a roof height of 380m, and total height of 443m. It was the world's tallest building until the first tower of the World Trade Center was completed in 1970. The American Society of Civil Engineers recognized it as one of the Seven Wonders of the Modern World in 1974.",
+    "build_year": 1930,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Empire_State_Building",
+      "britannica": "https://www.britannica.com/place/Empire-State-Building",
+      "google_maps": "https://www.google.com/maps/place/Empire+State+Building/@40.7484405,-73.9856644,16z/data=!3m1!4b1!4m6!3m5!1s0x89c259a9b3117469:0xd134e199a405a163!8m2!3d40.7484405!4d-73.9856644!16zL20vMDJuZF8",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d104365-Reviews-Empire_State_Building-New_York_City_New_York.html",
+      "images": [
+        "https://cdn.britannica.com/73/114973-050-2DC46083/Midtown-Manhattan-Empire-State-Building-New-York.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/EmpireStateBuilding20205thAvenueEntrance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/NARA_Empire_State_Building.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/46/Zeppelin_bij_Empire_State_Building_in_aanbouw_-_Zeppelin_near_the_Empire_State_Building_under_construction_%286943970242%29.jpg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders"
+    ]
+  },
+  {
+    "name": "Itaipu Dam",
+    "location": "Ciudad del Este, Paraguay, South America",
+    "summary": "A hydroelectric dam on the Paraná River located on the border between Brazil and Paraguay. As of 2020, it is the third largest hydroelectric dam in the world, and produced the second-most electricity of any in the world, only surpassed by the Three Gorges Dam plant in China. The American Society of Civil Engineers recognized it as one of the Seven Wonders of the Modern World in 1974.",
+    "build_year": 1982,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+      "britannica": "https://www.britannica.com/place/Itaipu-Dam",
+      "google_maps": "https://www.google.com/maps/place/PRESA+DE+ITAIPU,+100524,+Paraguay/@-25.4073348,-54.5935624,15.67z/data=!4m6!3m5!1s0x94f69cb919f7f28b:0x48c1e74cf3a5146d!8m2!3d-25.4072386!4d-54.5947552!16zL20vMGo4bDU",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303444-d318113-Reviews-Itaipu_Dam-Foz_do_Iguacu_State_of_Parana.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/6b/79/photo0jpg.jpg",
+        "https://cdn.britannica.com/58/1758-050-F33B1845/Itaipu-Dam-Upper-Parana-River-Paraguay-Ciudad.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Itaipu_3285.jpg"
+      ]
+    },
+    "categories": [
+      "SevenModernWonders"
+    ]
+  },
+  {
+    "name": "Mausoleum at Halicarnassus",
+    "location": "Bodrum, Turkey, Asia",
+    "summary": "A tomb built in Halicarnassus (present Bodrum, Turkey) for a ruler of Caria and a satrap of the Achaemenid Empire, Mausolus, and his wife. It was approximately 45m tall, and the four sides were adorned with sculptural reliefs, and was the last of the Seven Wonders of the Ancient World to be destroyed. This wonder is the source of the word mausoleum.",
+    "build_year": -351,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus",
+      "britannica": "https://www.britannica.com/topic/Mausoleum-of-Halicarnassus",
+      "google_maps": "https://www.google.com/maps/place/Mausoleum+at+Halicarnassus/@37.0378917,27.4215361,17z/data=!3m1!4b1!4m6!3m5!1s0x14be6c4712970997:0x5ea4619a942df9d1!8m2!3d37.0378874!4d27.4241164!16zL20vMGo0d2g",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298658-d2177923-Reviews-Mausoleum_of_Halicarnassus-Bodrum_City_Bodrum_District_Mugla_Province_Turkish_Aeg.html",
+      "images": [
+        "https://cdn.britannica.com/60/168960-050-766C48B3/Artist-re-creation-Mausoleum-of-Halicarnassus.jpg",
+        "https://cdn.britannica.com/58/168958-050-D06F8501/Mausoleum-Halicarnassus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mausoleum_at_Halicarnassus_at_the_Bodrum_Museum_of_Underwater_Archaeology.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg"
+      ]
+    },
+    "categories": [
+      "SevenWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Library of Alexandria",
+    "location": "Alexandria, Egypt, Africa",
+    "summary": "One of the largest and most significant libraries of the ancient world. The library was part of a larger research institution called the Mouseion, which was dedicated to the Muses, the nine goddesses of the arts. It is unknown precisely how many scrolls were housed at any given time, but estimates range from 40,000 to 400,000 at its height.",
+    "build_year": -246,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "britannica": "https://www.britannica.com/place/Library-of-Alexandria",
+      "google_maps": "https://www.google.com/maps/place/Alexandria+Bibliotheca/@31.2087701,29.9050013,17z/data=!4m6!3m5!1s0x14f5c38a0562fe85:0xa34cc632ec23e7!8m2!3d31.2089032!4d29.9091587!16zL20vMDF4NjNz",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295398-d459934-Reviews-Bibliotheca_Alexandrina-Alexandria_Alexandria_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/51/124251-050-0CD79A27/Illustration-Library-of-Alexandria-Egypt.jpg",
+        "https://api.time.com/wp-content/uploads/2020/11/alexandria.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/53/ba/21/photo2jpg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/CW_BibliotechaAlexandrina_Inside.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "China, Asia",
+    "summary": "A series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China.",
+    "build_year": -700,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "britannica": "https://www.britannica.com/place/Great-Wall-of-China",
+      "google_maps": "https://www.google.com/maps/place/Great+Wall+of+China/@40.4319118,116.5677946,17z/data=!3m1!4b1!4m6!3m5!1s0x35f121d7687f2ccf:0xd040259b950522df!8m2!3d40.4319077!4d116.5703749!16zL20vMGQyZHEw",
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+        "https://cdn.britannica.com/59/122459-050-8F097C3E/Section-Shanhaiguan-portion-border-Great-Wall-of.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Greatwall_large.jpg",
+        "https://cdn.britannica.com/05/19805-050-1B7FC648/Great-Wall-of-China-Asia-World-Heritage-1987.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Colosseum",
+    "location": "Rome, Italy, Europe",
+    "summary": "An elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world, despite its age. It was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and more.",
+    "build_year": 80,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Colosseum",
+      "britannica": "https://www.britannica.com/place/Colosseum",
+      "google_maps": "https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b6532013ad:0x28f1c82e908503c4!8m2!3d41.8902102!4d12.4922309!16zL20vMGQ1cXg",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html",
+      "images": [
+        "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/f0/6b/18/gita-fuori-porta-avevo.jpg",
+        "https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Frith%2C_Francis_%281822-1898%29_-_Roma_-_Interno_del_Colosseo.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Chichen Itza",
+    "location": "Yucatán, Mexico, North America",
+    "summary": "A large pre-Columbian city built by the Maya people of the Terminal Classic period. It was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature.",
+    "build_year": 600,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Chichen_Itza",
+      "britannica": "https://www.britannica.com/place/Chichen-Itza",
+      "google_maps": "https://www.google.com/maps/place/97751+Chich%C3%A9n-Itz%C3%A1,+Yucatan,+Mexico/@20.6787866,-88.5710572,17z/data=!3m1!4b1!4m6!3m5!1s0x8f5138b9a098f833:0xf70a67530750d45!8m2!3d20.6791438!4d-88.5683091!16s%2Fg%2F11c5m40nz9",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150808-d153407-Reviews-Chichen_Itza-Chichen_Itza_Yucatan_Peninsula.html",
+      "images": [
+        "https://cdn.britannica.com/60/92960-050-327CF926/pyramid-Mayan-Chichen-Itza-Mex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+        "https://cdn.britannica.com/23/178123-050-221FE172/structures-one-Casa-de-las-Monjas-Yucatan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Castillo_Maler.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Leaning Tower of Pisa",
+    "location": "Pisa, Italy, Europe",
+    "summary": "The campanile, or freestanding bell tower, of Pisa Cathedral. It is 55.86m tall and is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in the Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry.",
+    "build_year": 1173,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+      "britannica": "https://www.britannica.com/place/Leaning-Tower-of-Pisa",
+      "google_maps": "https://www.google.com/maps/place/Tower+of+Pisa/@43.7229558,10.3940167,17z/data=!3m1!4b1!4m6!3m5!1s0x12d591a6c44e88cd:0x32eca9b1d554fc03!8m2!3d43.722952!4d10.396597!16zL20vMGNuNDY",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187899-d195452-Reviews-Leaning_Tower_of_Pisa-Pisa_Province_of_Pisa_Tuscany.html",
+      "images": [
+        "https://cdn.britannica.com/88/80588-050-8D944BFE/Leaning-Tower-of-Pisa-Italy.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Italy_-_Pisa_-_Cathedral_Square.jpg",
+        "https://cdn.britannica.com/02/152202-050-4D73E046/Leaning-Tower-of-Pisa-cathedral-Italy.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/53/28/1e/torre-e-cattedrale.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Porcelain Tower of Nanjing",
+    "location": "Nanjing, China, Asia",
+    "summary": "Originally called the Great Bao'en Temple, it was a pagoda constructed in the 15th century during the Ming dynasty, but was mostly destroyed in the 19th century during the course of the Taiping Rebellion. A modern, full-size replica of it now exists in Nanjing.",
+    "build_year": 1412,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Porcelain_Tower_of_Nanjing",
+      "britannica": null,
+      "google_maps": "https://www.google.com/maps/place/Porcelain+Tower+of+Nanjing/@32.009386,118.783343,17z/data=!4m6!3m5!1s0x35b58c13830e69c5:0xa25684f8371aef19!8m2!3d32.009386!4d118.783343!16zL20vMDRkYnZz",
+      "trip_advisor": null,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/UB_Maastricht_-_Nieuhof_1665_-_Toren.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Prototype_3D_Porcelain_Pagoda_of_Nanjing.png",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/2024Apr_-_Glass_Pagoda_of_Nanjing_-_img_03.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Cuzco Region, Peru, South America",
+    "summary": "A 15th-century Inca citadel located in southern Peru on a 2,430m mountain ridge. It is the most familiar icon of the Inca Empire, and is often referred to as \"The Lost City of the Incas\". The Incas built the estate around 1450 but abandoned it a century later, at the time of the Spanish conquest.",
+    "build_year": 1450,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Machu_Picchu",
+      "britannica": "https://www.britannica.com/place/Machu-Picchu",
+      "google_maps": "https://www.google.com/maps/place/Historic+Sanctuary+of+Machu+Picchu/@-13.1631936,-72.5478424,17z/data=!3m1!4b1!4m6!3m5!1s0x916d9a5f89555555:0x3a10370ea4a01a27!8m2!3d-13.1631988!4d-72.5452621!16zL20vMGtyZnk",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294318-d668949-Reviews-Santuario_Historico_de_Machu_Picchu-Machu_Picchu_Sacred_Valley_Cusco_Region.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+        "https://cdn.britannica.com/27/95027-050-C0B1A761/view-Machu-Picchu-Peru.jpg",
+        "https://cdn.britannica.com/23/180723-050-DD87E669/terraces-dwellings-Peru-Machu-Picchu.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Machupicchu_hb10.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Christ the Redeemer",
+    "location": "Rio de Janeiro, Brazil, South America",
+    "summary": "An Art Deco statue of Jesus Christ, which stands 30m tall, excluding its 8m pedestal, with arms stretching 28m wide. It is located at the peak of the 700-m Corcovado mountain overlooking the city of Rio de Janeiro. This statue is the largest Art Deco–style sculpture in the world.",
+    "build_year": 1931,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+      "britannica": "https://www.britannica.com/place/Christ-the-Redeemer",
+      "google_maps": "https://www.google.com/maps/place/Christ+the+Redeemer/@-22.951916,-43.2104872,17z/data=!3m1!4b1!4m6!3m5!1s0x997fd5984aa13f:0x9dc984d7019502de!8m2!3d-22.951916!4d-43.2104872!16zL20vMDNneXR3",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g303506-d554128-Reviews-Corcovado_Christ_the_Redeemer-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+        "https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg",
+        "https://cdn.britannica.com/97/94997-050-808F1EA7/statue-Christ-the-Redeemer-Mount-Corcovado-Rio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Visita_de_estudantes_ao_Cristo_Redentor%2C_Acervo_do_Instituto_Moreira_Salles.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Petra",
+    "location": "Wadi Musa, Jordan, Asia",
+    "summary": "A historic and archaeological city in southern Jordan, originally known to its inhabitatns as Raqmu. Famous for its rock-cut architecture and water conduit system, it is also called the \"Rose City\" because of the colour of the sandstone from which it is carved. UNESCO has described Petra as \"one of the most precious cultural properties of man's cultural heritage\".",
+    "build_year": -312,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Petra",
+      "britannica": "https://www.britannica.com/place/Petra-ancient-city-Jordan",
+      "google_maps": "https://www.google.com/maps/place/Petra/@30.320645,35.4728339,15z/data=!4m15!1m8!3m7!1s0x15016930021ab6b1:0xe43a697bc3a3e0b9!2sWadi+Musa,+Jordan!3b1!8m2!3d30.3216354!4d35.4801251!16s%2Fm%2F03nx74h!3m5!1s0x15016ef1703b6071:0x199bf908679a2291!8m2!3d30.3284544!4d35.4443622!16zL20vMGM3enk",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g318895-d319461-Reviews-Petra-Petra_Wadi_Musa_Ma_an_Governorate.html",
+      "images": [
+        "https://cdn.britannica.com/24/153524-050-BA9D084B/Al-Dayr-Petra-Jordan.jpg",
+        "https://cdn.britannica.com/88/178488-050-C803F0AF/Tombs-Petra-Jordan.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/Great_Temple_of_Petra_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Palace_Tomb%2C_Petra.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/Treasury_petra_crop.jpeg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Taj Mahal",
+    "location": "Agra, India, Asia",
+    "summary": "An ivory-white marble mausoleum located in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife. The building complex incorporates the design traditions of Indo-Islamic and Mughal architecture. It is regarded as one of the best examples of Mughal architecture and a symbol of Indian history.",
+    "build_year": 1643,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "britannica": "https://www.britannica.com/place/Taj-Mahal",
+      "google_maps": "https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0421422,17z/data=!3m1!4b1!4m6!3m5!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422!16zL20vMGw4Y2I",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297683-d317329-Reviews-Taj_Mahal-Agra_Agra_District_Uttar_Pradesh.html",
+      "images": [
+        "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
+        "https://cdn.britannica.com/36/178636-050-805D750A/mosque-sandstone-mausoleum-complex-Taj-Mahal-Uttar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/04/Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_main_gateway_%28darwaza%29_to_the_Taj_Mahal.jpg"
+      ]
+    },
+    "categories": [
+      "SevenNewWonders",
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hoover Dam",
+    "location": "Nevada, USA, North America",
+    "summary": "A concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the U.S. states of Nevada and Arizona. Constructed between 1931 and 1936, during the Great Depression, its construction was the result of a massive effort involving thousands of workers, and cost over 100 lives.",
+    "build_year": 1936,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hoover_Dam",
+      "britannica": "https://www.britannica.com/place/Hoover-Dam",
+      "google_maps": "https://www.google.com/maps/place/Hoover+Dam/@36.0122842,-114.7446764,15.33z/data=!4m6!3m5!1s0x80c92b497f82a14b:0x89d59d0bd29de37!8m2!3d36.0160655!4d-114.7377325!16zL20vMDNxNGs",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60881-d150546-Reviews-Hoover_Dam-Boulder_City_Nevada.html",
+      "images": [
+        "https://cdn.britannica.com/58/156458-050-68649A2F/Hoover-Dam-border-Colorado-River-Arizona-Nevada.jpg",
+        "https://cdn.britannica.com/51/145251-050-10535C50/Hoover-Dam-Colorado-River-side-Arizona-Nevada.jpg",
+        "https://cdn.britannica.com/50/145250-050-B6D9C130/Hoover-Dam-Lake-Mead-bypass-bridge-Colorado-2010.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ansel_Adams_-_National_Archives_79-AAB-01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Damforms.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Potala Palace",
+    "location": "Lhasa, Tibet, Asia",
+    "summary": "A dzong fortress in Lhasa, it was the winter palace of the Dalai Lamas from 1649 to 1959, has been a museum since then. The palace is named after Mount Potalaka, the mythical abode of the bodhisattva Avalokiteśvara. Thirteen storeys of buildings, containing over 1,000 rooms, 10,000 shrines and about 200,000 statues, soar 117m on top of Marpo Ri, the \"Red Hill\".",
+    "build_year": 1645,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Potala_Palace",
+      "britannica": "https://www.britannica.com/place/Potala-Palace",
+      "google_maps": "https://www.google.com/maps/place/Potala+Palace/@29.6554988,91.1159989,17z/data=!3m1!4b1!4m6!3m5!1s0x3761317244846eab:0x4ae80d857ec10c19!8m2!3d29.6554942!4d91.1185792!16zL20vMDJkYnd3",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294223-d319162-Reviews-Potala_Palace-Lhasa_Tibet.html",
+      "images": [
+        "https://cdn.britannica.com/79/178679-050-9170BD2A/Potala-Palace-Lhasa-China-Tibet-Autonomous-Region.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Potala_-_panoramio_-_Matthew_Summerton_cropped.jpg",
+        "https://cdn.britannica.com/77/178677-050-F301153F/Potala-Palace-Lhasa-China-Tibet-Autonomous-Region.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Potala_Palace_%2823651397662%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Zhol_PIllar_in_1949.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Temple of Apollo at Delphi",
+    "location": "Delphi, Greece, Europe",
+    "summary": "A temple dedicated to the Greek god Apollo located in Central Greece at Delphi. During antiquity, the temple was home to the famous Greek prophetess the Pythia, or the Oracle of Delphi, making the Temple of Apollo and the sanctuary at Delphi a major Panhellenic religious site as early as the 8th century B.C.E., and a place of great importance at many different periods of ancient Greek history.",
+    "build_year": -400,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Apollo_(Delphi)",
+      "britannica": "https://www.britannica.com/place/Delphic-oracle",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Apollo/@38.4822382,22.4986371,17z/data=!3m1!4b1!4m6!3m5!1s0x135f795df19312c5:0x8f8b1b0a7341450!8m2!3d38.482234!4d22.5012174!16s%2Fg%2F120phd2x",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189408-d199058-Reviews-Temple_of_Apollo-Delphi_Phocis_Region_Central_Greece.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/21/5e/a7/the-sanctuary-of-athena.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Delphi_Temple_of_Apollo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/68/Temple_of_Apollo_at_Delphi_Panoramic.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/08/ab/ab/20160920-144147-largejpg.jpg",
+        "https://cdn.britannica.com/46/242246-050-98F0DF76/The-Oracle-painting-Camillo-Miola-Delphic-oracle-Pythia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sanctuary_of_Delphi_-_Reconstruction_-_Temple_of_Apollo.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Parthenon",
+    "location": "Athens, Greece, Europe",
+    "summary": "A former temple on the Athenian Acropolis that was dedicated to the goddess Athena. Its decorative sculptures are considered some of the high points of classical Greek art, and it is considered an enduring symbol of Ancient Greece, democracy, and Western civilization. Like most Greek temples, the Parthenon also served as the city treasury.",
+    "build_year": -438,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Parthenon",
+      "britannica": "https://www.britannica.com/place/Parthenon",
+      "google_maps": "https://www.google.com/maps/place/Parthenon/@37.9715327,23.7241363,16z/data=!3m1!4b1!4m6!3m5!1s0x14a1bd19ca39ee61:0x1b3fa079b878a218!8m2!3d37.9715285!4d23.7267166!16zL20vMDV4N2I",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189400-d198711-Reviews-Parthenon-Athens_Attica.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+        "https://cdn.britannica.com/53/150953-050-2E0836EB/Parthenon-Acropolis-Athens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/Parthenon_XL.jpg",
+        "https://cdn.britannica.com/53/13653-004-397B28E3/Acropolis-Athens-half-Parthenon-left-Erechtheum-centre.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Terracotta Army",
+    "location": "Xi'an, China, Asia",
+    "summary": "A collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting him in his afterlife. Estimates from 2007 were that the three pits containing the Terracotta Army hold more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses.",
+    "build_year": -210,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "britannica": "https://www.britannica.com/place/terra-cotta-army",
+      "google_maps": "https://www.google.com/maps/place/Emperor+Qinshihuang's+Mausoleum+Site+Museum/@34.3838861,109.2768806,16.67z/data=!4m6!3m5!1s0x3664a72d821403a3:0xc3e33e74e9e33fc7!8m2!3d34.3841153!4d109.2784918!16zL20vMDEzMXBx",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298557-d27099604-Terracotta_Army_Ticket-Xi_an_Shaanxi.html",
+      "images": [
+        "https://cdn.britannica.com/28/153528-050-250EA620/Xian-Terra-cotta-soldiers-tomb-Qin-China-Shaanxi.jpg",
+        "https://cdn.britannica.com/30/153530-050-9A8F7D46/Xian-soldiers-horses-tomb-Qin-emperor-Shihuangdi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/2015-09-22-081415_-_Terrakotta-Armee%2C_Grosse_Halle.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Terracotta_Army_Pit_1_-_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/2015-09-22-091227_-_Museum_der_Grabanlage_des_Qin_Shi_Huangdi.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Alhambra",
+    "location": "Granada, Spain, Europe",
+    "summary": "A palace and fortress complex located in Granada, Andalusia, Spain. It is one of the most famous monuments of Islamic architecture and one of the best-preserved palaces of the historic Islamic world, in addition to containing notable examples of Spanish Renaissance architecture.",
+    "build_year": 1358,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Alhambra",
+      "britannica": "https://www.britannica.com/topic/Alhambra-fortress-Granada-Spain",
+      "google_maps": "https://www.google.com/maps/place/Alhambra/@37.1760783,-3.5881413,17z/data=!3m1!4b1!4m6!3m5!1s0xd71fcb7977fb93b:0x808dd1ef1221a27f!8m2!3d37.1760783!4d-3.5881413!16zL20vMDdoX2o",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187441-d191078-Reviews-The_Alhambra-Granada_Province_of_Granada_Andalucia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+        "https://cdn.britannica.com/98/175498-050-97BD7DE6/Alhambra-Granada-Spain.jpg",
+        "https://cdn.britannica.com/24/178124-050-7941A7D1/Gardens-Partal-Palace-Torre-de-las-Damas.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Partal_Alto_DSCF7876.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/-Courtyard_of_the_Lions%2C_Alhambra%2C_Granada-_MET_DP366396.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Angkor Wat",
+    "location": "Angkor, Cambodia, Asia",
+    "summary": "A Hindu-Buddhist temple complex in Cambodia within the ancient Khmer capital city of Angkor, it is considered the largest religious structure in the world by Guinness World Records. Originally constructed in 1150 CE as a Hindu temple dedicated to the deity Vishnu, it was gradually transformed into a Buddhist temple towards the end of the century.",
+    "build_year": 1150,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "britannica": "https://www.britannica.com/topic/Angkor-Wat",
+      "google_maps": "https://www.google.com/maps/place/Angkor+Wat/@13.4124745,103.8644054,17z/data=!3m1!4b1!4m6!3m5!1s0x3110168aea9a272d:0x3eaba81157b0418d!8m2!3d13.4124693!4d103.8669857!16zL20vMDE5eGZs",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297390-d317907-Reviews-Angkor_Wat-Siem_Reap_Siem_Reap_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg",
+        "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/6f/a9/24/angkor-wat.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Angkor_Vat_%286931599619%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/De_drie_torens_van_den_tempel_van_Angkor-Wat.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Borobudur",
+    "location": "Magelang, Indonesia, Asia",
+    "summary": "A 9th-century Mahayana Buddhist temple in Magelang Regency, Central Java, Indonesia. Constructed of gray andesite-like stone, the temple consists of nine stacked platforms, six square and three circular, topped by a central dome, and is decorated with 2,672 relief panels and originally 504 Buddha statues. It has one of the world's most extensive collections of Buddhist reliefs.",
+    "build_year": 850,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Borobudur",
+      "britannica": "https://www.britannica.com/topic/Borobudur",
+      "google_maps": "https://www.google.com/maps/place/Borobudur+Temple/@-7.6078738,110.2037513,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a8cf009a7d697:0xdd34334744dc3cb!8m2!3d-7.6078738!4d110.2037513!16zL20vMDFoemNq",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g790291-d320054-Reviews-Borobudur_Temple-Borobudur_Magelang_Central_Java_Java.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg",
+        "https://cdn.britannica.com/90/177890-050-60506E86/monument-Borobudur-Buddhist-Java-Indonesia-levels-Shailendra-850-ce.jpg",
+        "https://cdn.britannica.com/67/178167-050-F4275F75/Pathway-one-terraces-Borobudur-Indonesia-Java.jpg",
+        "https://cdn.britannica.com/91/153391-050-C07E5BFF/Stupas-Borobudur-Java-Indonesia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Terrace_on_the_temple_of_Borobudur_1913.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Great Mosque of Djenné",
+    "location": "Djenné, Mali, Africa",
+    "summary": "A large brick or adobe building in the Sudano-Sahelian architectural style. The mosque is located in the city of Djenné, Mali. The first mosque on the site was built around the 13th century, but the current structure dates from 1907. As well as being the centre of the community of Djenné, it is one of the most famous landmarks in Africa.",
+    "build_year": 1350,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+      "britannica": "https://www.britannica.com/facts/Djenne",
+      "google_maps": "https://www.google.com/maps/place/Great+Mosque+of+Djenne/@13.9051742,-4.5579958,17z/data=!3m1!4b1!4m6!3m5!1s0xe384870ed97208b:0x929503daad9aba1e!8m2!3d13.905169!4d-4.5554155!16zL20vMDM0OGRo",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g480205-d325056-Reviews-Great_Mosque_Of_Djenne-Djenne_Mopti_Region.html",
+      "images": [
+        "https://cdn.britannica.com/17/153517-050-2342FED7/market-mosque-Mali-Djenne.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/24/25/djenne-mosque.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/72/d1/88/moschee-djenne.jpg",
+        "https://cdn.britannica.com/18/153518-050-9ACB5E27/Mosque-Djenne-Mali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Djenne_ruins_ancient_mosque_-_Albert_Rousseau.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Djenne_Fortier_413_-_Ruines_de_l%27ancienne_Mosqu%C3%A9e.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Notre-Dame de Paris",
+    "location": "Paris, France, Europe",
+    "summary": "A medieval Catholic cathedral on the Île de la Cité, it is considered one of the finest examples of French Gothic architecture. Several attributes set it apart from the earlier Romanesque style, particularly its pioneering use of the rib vault and flying buttress, its enormous and colourful rose windows, and the naturalism and abundance of its sculptural decoration.",
+    "build_year": 1350,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "britannica": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+      "google_maps": "https://www.google.com/maps/place/Cath%C3%A9drale+Notre-Dame+de+Paris/@48.8529682,2.3499021,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e19ff53a01:0x36401da7abfa068d!8m2!3d48.8529682!4d2.3499021!16zL20vMGd0eGg",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188679-Reviews-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg",
+        "https://cdn.britannica.com/85/83885-050-9CDCFEA9/Notre-Dame-de-Paris-France.jpg",
+        "https://cdn.britannica.com/54/42754-050-E9A92037/quality-choir-interior-nave-cathedral-Notre-Dame.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/ND_de_Paris_avant_1841.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Choeur_de_ND_de_Paris_1669.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Forbidden City",
+    "location": "Beijing, China, Asia",
+    "summary": "The imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of 24 Ming and Qing dynasty Emperors, and the center of political power in China for over 500 years from 1420 to 1924. It is one of the most popular tourist attractions in the world, and is the largest preserved royal palace complex still standing in the world.",
+    "build_year": 1420,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Forbidden_City",
+      "britannica": "https://www.britannica.com/topic/Forbidden-City",
+      "google_maps": "https://www.google.com/maps/place/The+Palace+Museum/@39.9163447,116.3971546,17z/data=!3m1!4b1!4m6!3m5!1s0x35f052dd9bcd81ab:0xde43eaed9b106064!8m2!3d39.9163447!4d116.3971546!16s%2Fm%2F02y_3j6",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d319086-Reviews-Forbidden_City_The_Palace_Museum-Beijing.html",
+      "images": [
+        "https://cdn.britannica.com/69/69-050-D30FED85/Forbidden-City-emperor-Ming-dynasty-Yonglo-Beijing.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/40/Forbidden_City_%2825737200388%29.jpg",
+        "https://cdn.britannica.com/85/94385-050-E583426F/Forbidden-City-Beijing.jpg",
+        "https://cdn.britannica.com/34/117734-050-2AA2A499/bronze-lion-Gate-of-Heavenly-Purity-Outer.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Vue_prise_en_ballon_du_Palais_Imp%C3%A9rial_%C3%A0_P%C3%A9kin.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Globe Theatre",
+    "location": "London, England, Europe",
+    "summary": "A theatre in London associated with William Shakespeare, it was built in 1599 at Southwark, close to the south bank of the Thames, by Shakespeare's playing company, the Lord Chamberlain's Men. It was destroyed by fire on 29 June 1613, and a modern reconstruction named \"Shakespeare's Globe\", opened in 1997, now exists 230m from the site of the original theatre.",
+    "build_year": 1599,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Globe_Theatre",
+      "britannica": "https://www.britannica.com/topic/Globe-Theatre",
+      "google_maps": "https://www.google.com/maps/place/Shakespeare's+Globe/@51.5080793,-0.0997743,17z/data=!3m1!4b1!4m6!3m5!1s0x487604a905ae1621:0xe700778eb8b2878e!8m2!3d51.508076!4d-0.097194!16s%2Fm%2F0403l_t",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d187726-Reviews-Shakespeare_s_Globe_Theatre-London_England.html",
+      "images": [
+        "https://cdn.britannica.com/28/138628-050-0C853838/Globe-Theatre-London.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Hodge%27s_conjectural_Globe_reconstruction.jpg",
+        "https://cdn.britannica.com/98/256598-050-6566DD90/aerial-view-Shakespeares-Globe.jpg",
+        "https://cdn.britannica.com/92/256592-050-11F01F83/stage-audience-Shakespeares-Globe.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Himeji Castle",
+    "location": "Himeji, Japan, Asia",
+    "summary": "A hilltop Japanese castle complex situated in Himeji, a city in the Hyōgo Prefecture of Japan. The castle is regarded as the finest surviving example of prototypical Japanese castle architecture. The castle is frequently known as \"White Heron Castle\" because of its brilliant white exterior and supposed resemblance to a bird taking flight.",
+    "build_year": 1400,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Himeji_Castle",
+      "britannica": "https://www.britannica.com/topic/White-Heron-Castle",
+      "google_maps": "https://www.google.com/maps/place/Himeji+Castle/@34.839449,134.6939047,17z/data=!3m1!4b1!4m6!3m5!1s0x3554e003a23324b3:0x7a4f8c2f6eba81b1!8m2!3d34.839449!4d134.6939047!16zL20vMDE4bmN4",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298191-d320231-Reviews-Himeji_Castle-Himeji_Hyogo_Prefecture_Kinki.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Ch%C3%A2teau_de_Himeji01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Himeji_Castle%2C_November_2016_-02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/Himeji_castle_in_may_2015.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/90/ac/f3/caption.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/11/Look_up_Ido_Kuruwa_in_Himeji_Castle.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Red Fort",
+    "location": "Delhi, India, Asia",
+    "summary": "A fort that historically served as the main residence of the Mughal emperors. Emperor Shah Jahan commissioned its construction in 1639, when he decided to shift his capital from Agra to Delhi. Its design is credited to architect Ustad Ahmad Lahori, who also constructed the Taj Mahal. The fort combines Persian palace architecture with Indian traditions.",
+    "build_year": 1648,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Red_Fort",
+      "britannica": "https://www.britannica.com/topic/Red-Fort",
+      "google_maps": "https://www.google.com/maps/place/Red+Fort/@28.6561639,77.23844,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203!16zL20vMDVteXN2",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304551-d319701-Reviews-Red_Fort-New_Delhi_National_Capital_Territory_of_Delhi.html",
+      "images": [
+        "https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Delhi_fort.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Red_Fort_in_Delhi_03-2016_img1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/84/Diwan-e-Khas-2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ghulam_Ali_Khan_003b.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Sistine Chapel",
+    "location": "Vatican City, Europe",
+    "summary": "A chapel in the Apostolic Palace, the pope's official residence in Vatican City. Originally known as the Cappella Magna ('Great Chapel'), it takes its name from Pope Sixtus IV, who had it built between 1473 and 1481. Today, it is the site of the papal conclave, the process by which a new pope is selected. The chapel's fame lies mainly in the frescoes that decorate its interior.",
+    "build_year": 1481,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+      "britannica": "https://www.britannica.com/topic/Sistine-Chapel",
+      "google_maps": "https://www.google.com/maps/place/Sistine+Chapel/@41.9029508,12.4519032,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6065c523afdb:0xab16c8877fb53e22!8m2!3d41.9029468!4d12.4544835!16zL20vMGtibHM",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d190130-Reviews-Sistine_Chapel-Vatican_City_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg",
+        "https://cdn.britannica.com/81/138681-050-3E9961A5/Detail-ceiling-fresco-Michelangelo-Vatican-City-Sistine.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/58/Chapelle_sixtine_plafond.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cappella_Sistina_-_2005.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Uffizi Gallery",
+    "location": "Florence, Italy, Europe",
+    "summary": "A prominent art museum located adjacent to the Piazza della Signoria in the Historic Centre of Florence. One of the most important Italian museums and the most visited, it is also one of the largest and best-known in the world and holds a collection of priceless works, particularly from the period of the Italian Renaissance. It is one of the first modern museums.",
+    "build_year": 1581,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Uffizi",
+      "britannica": "https://www.britannica.com/topic/Uffizi-Gallery",
+      "google_maps": "https://www.google.com/maps/place/Uffizi+Galleries/@43.7677894,11.2527305,17z/data=!3m1!4b1!4m6!3m5!1s0x132a54008dc59081:0xcddeb7c89bf0c4cd!8m2!3d43.7677856!4d11.2553108!16zL20vMGNmanA",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187895-d191153-Reviews-Gallerie_Degli_Uffizi-Florence_Tuscany.html",
+      "images": [
+        "https://cdn.britannica.com/69/194569-050-DBAD8934/Uffizi-Gallery-Florence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Uffizi_Gallery_-_Daughter_of_Niobe_bent_by_terror.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/05/Uffizi_Gallery_hallway.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/Statues_in_Niches_Outside_the_Uffizi_Gallery%2C_Florence.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tribuna_uffizi.jpg",
+        "https://cdn.britannica.com/06/42206-050-0AA050F8/Uffizi-Palace-Court-Florence-Giorgio-Vasari-1560.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Big Ben",
+    "location": "London, England, Europe",
+    "summary": "The nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower itself, which stands at the north end of the Palace of Westminster in London. The clock is a striking clock with five bells, and is elaborately decorated with stone carvings and features symbols related to the four nations of the United Kingdom and the Anglo-Welsh Tudor dynasty.",
+    "build_year": 1859,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Big_Ben",
+      "britannica": "https://www.britannica.com/topic/Big-Ben-clock-London",
+      "google_maps": "https://www.google.com/maps/place/Big+Ben/@51.5007292,-0.1246254,17z/data=!3m1!4b1!4m6!3m5!1s0x487604c38c8cd1d9:0xb78f2474b9a45aa9!8m2!3d51.5007292!4d-0.1246254!16zL20vMDI2eWRj",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186338-d211709-Reviews-Big_Ben-London_England.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Elizabeth_Tower%2C_June_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg",
+        "https://cdn.britannica.com/89/187589-050-E8D5A657/Workers-Big-Ben-London.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Big_Ben_2001-06-27.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Brandenburg Gate",
+    "location": "Berlin, Germany, Europe",
+    "summary": "An 18th-century neoclassical monument in Berlin. One of the best-known landmarks of Germany, it was erected on the site of a former city gate that marked the start of the road from Berlin to Brandenburg an der Havel. Since German reunification in 1990, it has been considered not only a symbol of the tumultuous histories of Germany and Europe, but also of European unity and peace.",
+    "build_year": 1791,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+      "britannica": "https://www.britannica.com/topic/Brandenburg-Gate",
+      "google_maps": "https://www.google.com/maps/place/Brandenburg+Gate/@52.5162746,13.3777041,17z/data=!3m1!4b1!4m6!3m5!1s0x47a851c655f20989:0x26bbfb4e84674c63!8m2!3d52.5162746!4d13.3777041!16zL20vMDE0a2Y4",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187323-d190518-Reviews-Brandenburg_Gate-Berlin.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Berlin_-_0266_-_16052015_-_Brandenburger_Tor.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/View_of_Brandenburger_Tor_from_the_Reichstag_roof_terrace%2C_Berlin%2C_2017.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/00_2486_Quadriga_-_Brandenburger_Tor_%28Berlin%29.jpg",
+        "https://cdn.britannica.com/51/127851-050-D0670589/barrier-Brandenburg-Gate-Berlin-Wall-version-1961.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_B_145_Bild-P054320%2C_Berlin%2C_Brandenburger_Tor_und_Pariser_Platz.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Louvre",
+    "location": "Paris, France, Europe",
+    "summary": "A national art museum in Paris, France, and one of the most famous museums in the world. It exhibits sculptures, objets d'art, paintings, drawings, and archaeological finds. At any given point in time, approximately 38,000 objects from prehistory to the 21st century are being exhibited over an area of 72,735m2, making it the largest museum in the world.",
+    "build_year": 1793,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Louvre",
+      "britannica": "https://www.britannica.com/topic/Louvre-Museum",
+      "google_maps": "https://www.google.com/maps/place/Louvre+Museum/@48.8606145,2.3327677,16z/data=!3m1!4b1!4m6!3m5!1s0x47e671d877937b0f:0xb975fcfa192f84d4!8m2!3d48.8606111!4d2.337644!16zL20vMDRnZHI",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188757-Reviews-Louvre_Museum-Paris_Ile_de_France.html",
+      "images": [
+        "https://cdn.britannica.com/02/121002-050-92DB902F/Louvre-Museum-pyramid-Paris-Pei-IM.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Salon_Carr%C3%A9_Ceiling.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Salles_des_colonnes_du_Louvre%2C_vue_vers_l%27ouest.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Amor-Psyche-Canova-JBU02.JPG",
+        "https://cdn.britannica.com/28/13728-050-EA945FD3/Colonnade-Louvre-Museum-Paris-print.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Broadway Theatre",
+    "location": "New York, USA, North America",
+    "summary": "A theatre genre that consists of the theatrical performances presented in 41 professional theaters, each with 500 or more seats, in the Theater District and Lincoln Center along Broadway, in Midtown Manhattan, New York City. Broadway and London's West End together represent the highest commercial level of live theater in the English-speaking world.",
+    "build_year": 1850,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Broadway_theatre",
+      "britannica": "https://www.britannica.com/topic/Broadway-street-and-district-New-York-City",
+      "google_maps": "https://www.google.com/maps/place/Broadway+Theatre/@40.7632524,-73.985719,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2585665784711:0x5bbfed74cc606bf6!8m2!3d40.7632484!4d-73.9831387!16zL20vMGJ6N2Jn",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d143361-Reviews-Broadway-New_York_City_New_York.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Broadway_Theaters_45th_Street_Night.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/87/eb/86/photo3jpg.jpg",
+        "https://cdn.britannica.com/16/192716-050-7559ADC0/Hamilton-Lin-Manuel-Miranda-Rodgers-Theater-on-2016.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c4/Broadway_theatres_1920.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Eiffel Tower",
+    "location": "Paris, France, Europe",
+    "summary": "A wrought-iron lattice tower that was initially criticised by some of France's leading artists for its design, it has since become a global cultural icon of France and one of the most recognisable structures in the world. The tower is 330m tall, surpassed the Washington Monument to become the tallest human-made structure in the world, a title it held for 41 years until 1930.",
+    "build_year": 1889,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "britannica": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France",
+      "google_maps": "https://www.google.com/maps/place/Eiffel+Tower/@48.8583701,2.2944813,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66e2964e34e2d:0x8ddca9ee380ef7e0!8m2!3d48.8583701!4d2.2944813!16zL20vMDJqODE",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187147-d188151-Reviews-Eiffel_Tower-Paris_Ile_de_France.html",
+      "images": [
+        "https://cdn.britannica.com/52/245552-050-3D7334F9/Eiffel-Tower-Paris.jpg",
+        "https://cdn.britannica.com/31/255531-050-B7E07090/eiffel-tower-paris-france-champ-de-mars-view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sous_la_Tour_Eiffel_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Construction_tour_eiffel4.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/91/Construction_tour_eiffel6.JPG",
+        "https://cdn.britannica.com/92/43692-050-45F1B99F/Eiffel-Tower-rooftops-Right-Bank-Centre-Beaubourg.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Kremlin",
+    "location": "Moscow, Russia, Europe",
+    "summary": "A fortified complex located in the centre of Moscow, it is the best known of the kremlins (Russian citadels) and includes five palaces, four cathedrals, and the enclosing Kremlin Wall along with the Kremlin towers. It is now the official residence of the President of the Russian Federation.",
+    "build_year": 1495,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Kremlin",
+      "britannica": "https://www.britannica.com/topic/The-Kremlin",
+      "google_maps": "https://www.google.com/maps/place/The+Moscow+Kremlin/@55.7509544,37.6175755,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a50b315e573:0xa886bf5a3d9b2e68!8m2!3d55.7509544!4d37.6175755!16zL20vMDIxbHJ5",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298515-d600733-Reviews-The_Kremlin-Nizhny_Novgorod_Nizhny_Novgorod_Oblast_Volga_District.html",
+      "images": [
+        "https://cdn.britannica.com/51/115451-050-3043FB8D/brick-walls-churches-government-Kremlin-buildings-palaces.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C%2C_%D0%B2%D0%B8%D0%B4_%D1%81_%D0%94%D0%BE%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%BE%D0%B9.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/MoscowKremlin_AssumptionCathedral_S21.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moscow_Grand_Kremlin_Palace3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg",
+        "https://cdn.britannica.com/02/177902-050-3CBA0481/hall-Facets-Palace-Moscow-Kremlin.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C_%28%D1%81_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2.%D0%BC%D0%BE%D1%81%D1%82%D0%B0%29._1898%D0%B3_big_486981883185_e1t.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "location": "Füssen, Germany, Europe",
+    "summary": "A historic palace on a rugged hill of the foothills of the Alps. King Ludwig II of Bavaria commissioned it as a retreat but also in honour of composer Richard Wagner, whom he greatly admired. The castle was intended to serve as a private residence for the king but he died in 1886, and it was opened to the public shortly after his death without having been completed.",
+    "build_year": 1886,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+      "britannica": "https://www.britannica.com/topic/Neuschwanstein-Castle",
+      "google_maps": "https://www.google.com/maps/place/Neuschwanstein+Castle/@47.5575776,10.7472201,17z/data=!3m1!4b1!4m6!3m5!1s0x479cf7cac44ea35d:0xc8a6866bd39dbba3!8m2!3d47.557574!4d10.7498004!16zL20vMDFqejF6",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Neuschwanstein_castle.jpg",
+        "https://cdn.britannica.com/95/94495-050-BB9036F7/Neuschwanstein-Castle-Bavaria-Germany.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/Neuschwanstein_Castle_LOC_print_rotated.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Johannes_Bernhard_Neuschwanstein_Baustelle_1882-85_%2801%29.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Prora",
+    "location": "Binz, Germany, Europe",
+    "summary": "A building complex in the municipality of Binz on the island of Rügen, Germany. It was built by Nazi Germany between 1936 and 1939 as part of the Strength Through Joy project. Although the buildings were planned as a holiday resort, construction was not completed, and they were not used for this purpose. Today, it houses a large youth hostel, a hotel, and holiday apartments.",
+    "build_year": 1939,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Prora",
+      "google_maps": "https://www.google.com/maps/place/18609+Binz-Prora,+Germany/@54.4391506,13.5651496,15z/data=!3m1!4b1!4m6!3m5!1s0x47ab40955768de9d:0xa251aeb32315340!8m2!3d54.4390642!4d13.5747259!16s%2Fg%2F11bc5_py7x",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/20-07-06-Prora-RalfR-DJI_0120.jpg",
+        "https://i.insider.com/59f9e56c58a0c130008b4ce1",
+        "https://i.insider.com/5963a19ff50184b3078b5282",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/ProraLandseite.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/06/Flur_Zerstoerungen.JPG"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "New York, USA, North America",
+    "summary": "A colossal neoclassical sculpture on Liberty Island in New York Harbor. The copper-clad statue, a gift to the United States from the people of France, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue is a figure of a classically draped woman, likely inspired by the Roman goddess of liberty Libertas.",
+    "build_year": 1886,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "britannica": "https://www.britannica.com/topic/Statue-of-Liberty",
+      "google_maps": "https://www.google.com/maps/place/Statue+of+Liberty/@40.6892494,-74.0445004,17z/data=!3m1!4b1!4m6!3m5!1s0x89c25090129c363d:0x40c6a5770d25022b!8m2!3d40.6892494!4d-74.0445004!16zL20vMDcycDg",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g60763-d103887-Reviews-Statue_of_Liberty-New_York_City_New_York.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6b/Liberty_Island_photo_Don_Ramey_Logan.jpg",
+        "https://cdn.britannica.com/22/195522-050-6C15247F/Statue-of-Liberty-Upper-New-York-Bay.jpg",
+        "https://cdn.britannica.com/82/183382-050-D832EC3A/Detail-head-crown-Statue-of-Liberty-New.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/Liberty-from-behind-2024.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Head_of_the_Statue_of_Liberty_on_display_in_a_park_in_Paris.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Petagon",
+    "location": "Washington DC, USA, North America",
+    "summary": "The headquarters building of the United States Department of Defense. The building was constructed on an accelerated schedule during World War II. It is the world's second-largest office building, with about 600,000m² of floor space, 340,000m2 of which are used as offices. It has five sides, five floors above ground, two basement levels, and five ring corridors per floor.",
+    "build_year": 1943,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/The_Pentagon",
+      "britannica": "https://www.britannica.com/topic/Pentagon",
+      "google_maps": "https://www.google.com/maps/place/The+Pentagon/@38.8718568,-77.0562669,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b6df29ed2c27:0xaf83d0f8c013532f!8m2!3d38.8718568!4d-77.0562669!16zL20vMDl3M2I",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g28970-d102530-Reviews-The_Pentagon-Washington_DC_District_of_Columbia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aerial_Closeup_of_the_Pentagon%2C_May_11%2C_2021.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Pentagon_Memorial-5089.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/65/3a/69/caption.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pentagon_construction.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5"
+    ]
+  },
+  {
+    "name": "Sydney Opera House",
+    "location": "Sydney, Australia, Oceania",
+    "summary": "A multi-venue performing arts centre located on the foreshore of Sydney Harbour. It is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th-century architecture. The building comprises multiple performance venues, which together host well over 1,500 performances annually, attended by more than 1.2 million people.",
+    "build_year": 1973,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+      "britannica": "https://www.britannica.com/topic/Sydney-Opera-House",
+      "google_maps": "https://www.google.com/maps/place/Sydney+Opera+House/@-33.8567844,151.2152967,16z/data=!3m1!4b1!4m6!3m5!1s0x6b12ae665e892fdd:0x3133f8d75a1ac251!8m2!3d-33.8567844!4d151.2152967!16zL20vMDZfbm0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g255060-d257278-Reviews-Sydney_Opera_House-Sydney_New_South_Wales.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg",
+        "https://cdn.britannica.com/96/100196-050-C92064E0/Sydney-Opera-House-Port-Jackson.jpg",
+        "https://cdn.britannica.com/47/94547-050-DD468792/Sydney-Opera-House.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Interior_of_Sydney_Opera_House_Concert_Hall_during_performance.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sydney_Opera_House_construction_1968.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Apadana of Darius",
+    "location": "Persepolis, Iran, Asia",
+    "summary": "A large hypostyle hall which belongs to the oldest building phase of the city of Persepolis, in the first half of the 6th century BC, as part of the original design by Darius the Great. Its construction was completed by Xerxes I. Modern scholarship \"demonstrates the metaphorical nature of the Apadana reliefs as idealised social orders\".",
+    "build_year": -450,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Apadana",
+      "britannica": "https://www.britannica.com/place/Apadana-of-Darius",
+      "google_maps": "https://www.google.com/maps/place/Incompleted+tomb+of+Darius+III/@29.9293353,52.8897445,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade5a75f9308f3:0x7dc397c7be56a989!8m2!3d29.9293307!4d52.8923248!16s%2Fg%2F11kh9ty5tn",
+      "images": [
+        "https://cdn.britannica.com/94/94894-050-C40775EF/Apadana-Darius-I-Persepolis-Iran.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Persian_city.jpg",
+        "https://cdn.britannica.com/48/2448-050-6C06B2F5/tribute-bearer-Armenian-jar-griffins-stairway-relief.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/History_of_Egypt%2C_Chaldea%2C_Syria%2C_Babylonia_and_Assyria_%281903%29_%2814584070300%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Persepolis_Reconstruction_Apadana_Chipiez.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Persepolis_Reconstruction_Apadana_Toit_Chipiez.JPEG"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Bolshoi Theatre",
+    "location": "Moscow, Russia, Europe",
+    "summary": "A historic opera house in Moscow, Russia, originally designed by architect Joseph Bové. Before the October Revolution it was a part of the Imperial Theatres of the Russian Empire. The main building of the theatre, rebuilt and renovated several times during its history, is a landmark of Moscow and Russia (its iconic neoclassical façade is depicted on the Russian 100-ruble banknote).",
+    "build_year": 1825,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Bolshoi_Theatre",
+      "britannica": "https://www.britannica.com/topic/Bolshoi-Theatre",
+      "google_maps": "https://www.google.com/maps/place/Bolshoi+Theatre/@55.7601335,37.6186486,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5b4c576dbf:0x93a829189a1d29f2!8m2!3d55.7601335!4d37.6186486!16zL20vMDJtOXEx",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g198564-d190837-Reviews-Schloss_Neuschwanstein-Schwangau_Upper_Bavaria_Bavaria.htmlp",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Moscow-Bolshoi-Theare-1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Moscow_05-2017_img27_Bolshoy_Theatre_quadriga.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Moscow_BolshoyTheatre_009_2507.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bundesarchiv_Bild_102-13138%2C_Moskau%2C_Bolschoi-Theater.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bolshoy_Teatr.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Maracanã Stadium",
+    "location": "Rio de Janeiro, Brazil, South America",
+    "summary": "An association football stadium, owned by the Rio de Janeiro state government, and now managed by the clubs Fluminense and Flamengo. The stadium was opened in 1950 to host the FIFA World Cup, in which Brazil was beaten 2–1 by Uruguay in the deciding game, in front of a still standing record attendance of 173,850 spectators, on 16 July 1950.",
+    "build_year": 1950,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium",
+      "britannica": "https://www.britannica.com/place/Maracana-Stadium",
+      "google_maps": "https://www.google.com/maps/place/Maracan%C3%A3/@-22.912156,-43.2327515,17z/data=!3m1!4b1!4m6!3m5!1s0x997e5dba888b0d:0xf5f33188ee6274e5!8m2!3d-22.912161!4d-43.2301712!16zL20vMDFxdjR5",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/36/Maracan%C3%A3_Stadium_in_Rio_de_Janeiro.jpg",
+        "https://cdn.britannica.com/22/138622-050-4230BED2/Maracana-Stadium-Rio-de-Janeiro-Braz.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Maracana_L.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stadion_Rio_de_Janeiro_Finale_WM_2014_%2822117945206%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/07/Selo_da_Copa_de_1950_Cr_1%2C20.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Etemenanki",
+    "location": "Baghdad, Iraq, Asia",
+    "summary": "A ziggurat dedicated to the Mesopotamian god Marduk in the ancient city of Babylon. It now exists only in ruins, located about 90km south of Baghdad, Iraq. Many scholars have identified it as a likely inspiration for the biblical story of the Tower of Babel.",
+    "build_year": -900,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Etemenanki",
+      "britannica": "https://www.britannica.com/place/Etemenanki",
+      "google_maps": "https://www.google.com/maps/place/Ziggurat+of+Babel+(Tower+of+Babel)/@32.5362931,44.418539,17z/data=!3m1!4b1!4m6!3m5!1s0x1558fd6e11f9733d:0x8be80aedb0eb6a4d!8m2!3d32.5362886!4d44.4211193!16zL20vMGY2czk",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Etemenanki_Berlin.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipMCEjSYxriO6bkYE-VFpLWQJkNsxiR9YuJNLrVt=s680-w680-h510",
+        "https://upload.wikimedia.org/wikipedia/commons/8/87/Remains_of_the_foundations_of_the_Etemnanki_Zigurat.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Ziggurat of Ur",
+    "location": "Al-Nāṣiriyyah, Iraq, Asia",
+    "summary": "A Neo-Sumerian ziggurat in what was the city of Ur near Nasiriyah, in present-day Dhi Qar Province, Iraq. The structure was built during the Early Bronze Age (21st century BC) but had crumbled to ruins by the 6th century BC of the Neo-Babylonian period, when it was restored by King Nabonidus. It is the best-preserved of those known from Mesopotamia, besides the ziggurat of Dur Untash.",
+    "build_year": -2100,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+      "britannica": "https://www.britannica.com/topic/ziggurat-at-Ur",
+      "google_maps": "https://www.google.com/maps/place/Great+Ziggurat+of+Ur/@30.9627594,46.1005975,17z/data=!3m1!4b1!4m6!3m5!1s0x3fde0f04bcb0e269:0x3cc2e62923d6aa66!8m2!3d30.9627548!4d46.1031778!16zL20vMDV4bDg0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g659534-d25310969-Reviews-Great_Ziggurat_of_Ur-Nasiriyah_Dhi_Qar_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Drawing_of_the_Ziggurat_of_Ur%2C_Iraq%2C_by_Marjorie_V._Duffell_for_C._L._Woolley%2C_1937.jpg",
+        "https://cdn.britannica.com/24/234324-050-06F7B0E3/Dhi-Qar-Iraq-2022-Ziggurat-of-Ur-Sumerian-period.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/Zig_close.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Zig_from_side.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zig_front_right_side.JPG"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "The Great Bath",
+    "location": "Mohenjo-daro, Pakistan, Asia",
+    "summary": "One of the best-known structures among the ruins of the Harappan Civilization, excavated at Mohenjo-daro in present-day Sindh province of Pakistan. It is called the \"earliest public water tank of the ancient world\". It measures approximately 12m by 7m, with a maximum depth of 2.4m.",
+    "build_year": -3000,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Bath",
+      "britannica": "https://www.britannica.com/place/Great-Bath-Mohenjo-daro",
+      "google_maps": "https://www.google.com/maps/place/The+Great+Bath/@27.3252509,68.1300546,17z/data=!3m1!4b1!4m6!3m5!1s0x39350b66c06edee9:0xe6f8a77186ef4b12!8m2!3d27.3252462!4d68.1326349!16s%2Fm%2F0c3yw41",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mohenjo-daro.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Bath_of_Moenjodaro_by_smn121-5.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Great_Bath%2C_Mohenjo-daro_20160806_JYN-03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Great_Bath_at_Mohenjo-daro._Wellcome_L0005461.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Great Zimbabwe",
+    "location": "Masvingo, Zimbabwe, Africa",
+    "summary": "A medieval city in the south-eastern hills of Zimbabwe. It was the capital of the Kingdom of Zimbabwe from the 13th century, having been settled in the 4th century AD. Among the edifice's most prominent features were its walls, some of which are 11m high. They were constructed of \"dry stone\" (that is, without mortar). Eventually, the city was abandoned and fell into ruin.",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+      "britannica": "https://www.britannica.com/place/Great-Zimbabwe",
+      "google_maps": "https://www.google.com/maps/place/Great+Zimbabwe+National+Monument/@-20.2713259,30.9305492,17z/data=!3m1!4b1!4m6!3m5!1s0x1ecd0184c6f4ef7f:0xe92c1ec6afc766a0!8m2!3d-20.271331!4d30.9331295!16s%2Fg%2F12lppts0g",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g298091-d24125295-Great_Zimbabwe-Bulawayo_Bulawayo_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
+        "https://cdn.britannica.com/95/84895-050-215FBB71/complex-Great-Zimbabwe-Masvingo.jpg",
+        "https://cdn.britannica.com/14/153414-050-6001EE2C/Ruins-Great-Zimbabwe-palace.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great-zim-aerial-looking-West.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Exterior_of_great_enclosure%2CG.Zimbabwe.JPG"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Hermitage Museum",
+    "location": "Saint Petersburg, Russia, Europe",
+    "summary": "A museum of art and culture in Saint Petersburg, Russia. It was founded in 1764 when Empress Catherine the Great acquired a collection of paintings from the Berlin merchant Johann Ernst Gotzkowsky. It has been open to the public since 1852, and its collections, of which only a small part is on permanent display, comprise over three million items.",
+    "build_year": 1764,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hermitage_Museum",
+      "britannica": "https://www.britannica.com/topic/Hermitage-museum-Saint-Petersburg-Russia",
+      "google_maps": "https://www.google.com/maps/place/State+Hermitage+Museum/@59.9398317,30.3145597,17z/data=!3m1!4b1!4m6!3m5!1s0x4696310b32cbe2e9:0x74e032aa0505dfc!8m2!3d59.9398317!4d30.3145597!16zL20vMDE3cXlr",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298507-d300071-Reviews-The_State_Hermitage_Museum-St_Petersburg_Northwestern_District.html",
+      "images": [
+        "https://cdn.britannica.com/39/117239-050-9315F482/Hermitage-St-Petersburg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hermitage_Museum_in_Saint_Petersburg.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Atlantes-Saint_Petersburg-6.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/01/Ermit%C3%A1%C5%BE_%2818%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Raphael_Loggias_Hermitage.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Huey Teocalli",
+    "location": "Mexico City, Mexico, North America",
+    "summary": "The main temple of the Mexica people in their capital city of Tenochtitlan, which is now Mexico City. Its architectural style belongs to the late Postclassic period of Mesoamerica. The temple was called Huēyi Teōcalli in the Nahuatl language. The temple was almost totally destroyed by the Spanish in 1521, and the Mexico City Metropolitan Cathedral was built in its place.",
+    "build_year": 1325,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Templo_Mayor",
+      "britannica": "https://www.britannica.com/topic/Templo-Mayor",
+      "google_maps": "https://www.google.com/maps/place/Templo+Mayor,+La+Esmeralda,+07540+Ciudad+de+M%C3%A9xico,+CDMX,+Mexico/@19.4853258,-99.0904294,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1fa32fb8dd9f9:0x9f1d288f208d247a!8m2!3d19.4853208!4d-99.0878491!16s%2Fg%2F1tscpbxx",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g150800-d152191-Reviews-Museo_del_Templo_Mayor-Mexico_City_Central_Mexico_and_Gulf_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/98/147898-050-25F13D15/Ruins-Templo-Mayor-Mexico-City-Zocalo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4d/Templo_Mayor_2015_001.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/InsideEagleBuildingTemploMayor.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zocalo_temple_mayor_metro.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Kilwa Kisiwani",
+    "location": "Kilwa Masoko, Tanzania, Africa",
+    "summary": "An island, national historic site, and hamlet community located in the township of Kilwa Masoko. At its peak in the Middle Ages, it had over 10,000 inhabitants, and despite its significant historic reputation, it is still home to a small and resilient community of natives who have inhabited the island for centuries.",
+    "build_year": 800,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
+      "britannica": "https://www.britannica.com/place/Kilwa",
+      "google_maps": "https://www.google.com/maps/place/Kilwa+Kisiwani,+Tanzania/@-8.9658521,39.4775767,15z/data=!3m1!4b1!4m6!3m5!1s0x18f4efc4d22fa8d9:0x89628caa9070ac56!8m2!3d-8.965874!4d39.497082!16zL20vMDR4d3h6",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g14050045-d480393-Reviews-Kilwa_Kisiwani_World_Heritage_Site-Kilwa_Kisiwani_Island_Lindi_Region.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Kilwa-Kisiwani-ruins-tanzania.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d3/Great_Mosque_Kilwa_Kisiwani.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1c/Interior_Kilwa_Kisiwani.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/cc/32/3b/mosquee.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kilwa_Gerezani_Door.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Kōtoku-in",
+    "location": "Kamakura, Japan, Asia",
+    "summary": "A Buddhist temple of the Jōdo-shū sect, in the city of Kamakura, and its common temple name is Shōjōsen-ji. The temple is renowned for The Great Buddha of Kamakura, a monumental outdoor bronze statue of Amitābha, which is one of the most famous icons of Japan. Including the base, it measures 13.35m tall and weighs approximately 93 tonnes.",
+    "build_year": 1252,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/K%C5%8Dtoku-in",
+      "google_maps": "https://www.google.com/maps/place/Kotoku-in/@35.3168188,139.5331639,17z/data=!3m1!4b1!4m6!3m5!1s0x601845f2df49bc05:0x1ec393b02d6bef4c!8m2!3d35.3168145!4d139.5357442!16s%2Fg%2F11c2pcz953",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1066452-d11947042-Reviews-Kotoku_in-Nakano_Tokyo_Tokyo_Prefecture_Kanto.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/-Buddha_Sculpture-_MET_DP155601.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Buddha_kamakura_closeup.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ce/Main_Archway_into_K%C5%8Dtoku-in%2C_Kamakura.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/%27Kamakura%27%2C_woodblock_print_by_Charles_W._Bartlett%2C_1916.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Mahabodhi Temple",
+    "location": "Bodh Gaya, India, Asia",
+    "summary": "An ancient, but restored Buddhist temple in Bodh Gaya, Bihar, India, marking the location where the Buddha is said to have attained enlightenment. The site contains a descendant of the Bodhi Tree under which the Buddha gained enlightenment, and has been a major pilgrimage destination of Buddhists for over two thousand years.",
+    "build_year": -250,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mahabodhi_Temple",
+      "britannica": "https://www.britannica.com/place/Mahabodhi-Temple-in-Pagan",
+      "google_maps": "https://www.google.com/maps/place/Mahabodhi+Temple/@24.6959271,84.988839,17z/data=!3m1!4b1!4m6!3m5!1s0x39f32c5b4bd80877:0xf8dd2e286fa80c97!8m2!3d24.6959222!4d84.9914193!16zL20vMDFneXl2",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g424922-d319997-Reviews-Mahabodhi_Temple-Bodh_Gaya_Gaya_District_Bihar.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Mahabodhitemple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bodhi_Tree_Distant_View_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/43/Diamond_throne_discovery.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bodh_Gaya_Sunga_railings_4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Bodh_gaya_before_restoration.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Meenakshi Temple",
+    "location": "Madurai, India, Asia",
+    "summary": "A historic Hindu temple located in the temple city of Madurai. It is dedicated to the goddess Meenakshi Amman Nayak, a form of Parvati, and her consort, Sundareshwarar, a form of Shiva. The temple is at the centre of the ancient temple city of Madurai mentioned in the Tamil Sangam literature, with the goddess temple mentioned in 6th-century CE texts.",
+    "build_year": 1600,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "britannica": "https://www.britannica.com/topic/Meenaskshi-Amman-Temple",
+      "google_maps": "https://www.google.com/maps/place/Meenakshi+Temple/@12.8675545,80.1742293,11.67z/data=!4m6!3m5!1s0x3a52661ac1ef3333:0xe63425c7525c5050!8m2!3d13.0692587!4d80.2672797!16s%2Fg%2F1tlczlr6",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297677-d321131-Reviews-Madurai_Meenakshi_Amman_Temple-Madurai_Madurai_District_Tamil_Nadu.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/af/MEENAKSHI_TEMPLE-VIEW_FROM_WEST_SIDE_TOWER.jpg",
+        "https://cdn.britannica.com/31/161731-050-29ED0BDC/Hindu-Meenakshi-Amman-Temple-Madurai-India-Tamil.jpg",
+        "https://cdn.britannica.com/31/242231-050-F879D668/Meenakshi-Temple-Madurai-city-Tamil-Nadu-India.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/01MaduraiMeenakshiAmmanTemple%26IndoorCorridorView.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/Mariage_of_Shiva_and_Parvati_%28Meenakshi%29_witnessed_by_Vishnu%2C_Meenakshi_Temple%2C_Madurai_%282%29_%2836857653813%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/1895_print_of_Meenakshi_temple_1000_pillar_Airakkal_mandapa_choultry.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Mont-Saint-Michel",
+    "location": "Mont-Saint-Michel, France, Europe",
+    "summary": "A tidal island and mainland commune in Normandy, France. The commune's position—on an island just a few hundred metres from land—made it accessible at low tide to the many pilgrims to its abbey, and defensible as the incoming tide stranded, drove off, or drowned would-be assailants. The island remained unconquered during the Hundred Years' War.",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+      "britannica": "https://www.britannica.com/place/Mont-Saint-Michel",
+      "google_maps": "https://www.google.com/maps/place/50170+Mont+Saint-Michel,+France/@48.6244883,-1.5390193,15z/data=!3m1!4b1!4m6!3m5!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!8m2!3d48.636063!4d-1.511457!16zL20vMDFwOGg2",
+      "trip_advisor": "https://www.tripadvisor.com/Tourism-g196646-Mont_Saint_Michel_Manche_Basse_Normandie_Normandy-Vacations.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/78/Mont-Saint-Michel_vu_du_ciel.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mont_St_Michel_%2B_Jet%C3%A9e_par_Mar%C3%A9e_haute.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mont_Saint_Michel_Normandy.jpg",
+        "https://cdn.britannica.com/89/130489-050-A97CEA73/Mont-Saint-Michel-Basse-Normandie-France.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Országház",
+    "location": "Budapest, Hungary, Europe",
+    "summary": "The Hungarian Parliament Building, is the seat of the National Assembly of Hungary, and is situated in the Pest side of the city. It has been the largest building in Hungary since its completion. The architectural style was influenced by the gothic Vienna City Hall, the renaissance elements was influenced by the Maria vom Siege church in Vienna.",
+    "build_year": 1904,
+    "time_period": "Modern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building",
+      "google_maps": "https://www.google.com/maps/place/Hungarian+Parliament+Building/@47.5071246,19.0430887,17z/data=!3m1!4b1!4m6!3m5!1s0x4741dc1046d4a33d:0x342122b8ff8f0f6e!8m2!3d47.507121!4d19.045669!16zL20vMDhsdnN0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g274887-d276817-Reviews-Hungarian_Parliament_Building-Budapest_Central_Hungary.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Parliament_of_Hungary_November_2017.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Hungarian_Parliament_Building_by_AKW.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hungarian_Parliament_Building_2015_13.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hungarian_Parliament_Building_Upper_House_2015.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Divald_orsz%C3%A1gh%C3%A1z_1905-27.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Oxford University",
+    "location": "Oxford, England, Europe",
+    "summary": "A collegiate research university with evidence of teaching as early as 1096, making it the world's second-oldest university in continuous operation after the University of Bologna. It operates the Ashmolean Museum, the world's oldest university museum; Oxford University Press, the largest university press in the world; and the largest academic library system nationwide.",
+    "build_year": 1096,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/University_of_Oxford",
+      "britannica": "https://www.britannica.com/topic/University-of-Oxford",
+      "google_maps": "https://www.google.com/maps/place/University+of+Oxford/@51.7570461,-1.2593942,17z/data=!3m1!4b1!4m6!3m5!1s0x4876c6a9ef8c485b:0xd2ff1883a001afed!8m2!3d51.7570429!4d-1.2545179!16zL20vMDd0Z24",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g186361-d188766-Reviews-University_of_Oxford-Oxford_Oxfordshire_England.html",
+      "images": [
+        "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/1_oxford_aerial_panorama_2016.jpg",
+        "https://cdn.britannica.com/04/130604-050-CE14BE8D/University-College-Oxford-Oxfordshire-England.jpg",
+        "https://cdn.britannica.com/06/117106-050-B94F9317/Radcliffe-Camera-part-James-Gibbs-Oxford-England-1749.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/ChristChurchOxfordEngraving1742.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "St. Basil's Cathedral",
+    "location": "Moscow, Russia, Europe",
+    "summary": "An Orthodox church in Red Square of Moscow, it is one of the most popular cultural symbols of Russia. It was built from 1555 to 1561 on orders from Ivan the Terrible. Its completion, with its colors, was made in 1683. The church was confiscated as part of the Soviet Union's antireligious campaigns and has operated as a division of the State Historical Museum since 1928.",
+    "build_year": 1561,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Saint_Basil's_Cathedral",
+      "britannica": "https://www.britannica.com/topic/Saint-Basil-the-Blessed",
+      "google_maps": "https://www.google.com/maps/place/St.+Basil's+Cathedral/@55.7525259,37.6205065,17z/data=!3m1!4b1!4m6!3m5!1s0x46b54a5962e69605:0xa4cf168ae7cb3ae5!8m2!3d55.7525229!4d37.6230868!16zL20vMDE0bGZ0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298484-d300367-Reviews-Saint_Basil_s_Cathedral-Moscow_Central_Russia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+        "https://cdn.britannica.com/26/116526-050-76C37BBC/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/ff/St._Basil_Cathedral.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Saint_Basil_inside_hdr_mantiuk.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Red_Square_in_Moscow_%281801%29_by_Fedor_Alekseev.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Belém Tower",
+    "location": "Lisbon, Portugal, Europe",
+    "summary": "A fortification that served as a point of embarkation and disembarkation for Portuguese explorers and as a ceremonial gateway to Lisbon. This tower symbolizes Portugal's maritime and colonial power in early modern Europe. It is a prominent example of the Portuguese Manueline style, but also incorporates other architectural styles, such as the minarets, which are inspired by Moorish architecture.",
+    "build_year": 1519,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+      "britannica": "https://www.britannica.com/place/Tower-of-Belem",
+      "google_maps": "https://www.google.com/maps/place/Bel%C3%A9m+Tower/@38.6915879,-9.2185576,17z/data=!3m2!4b1!5s0xd1ecb6968ca6973:0x7ffc53d5b48b9149!4m6!3m5!1s0xd1ecb42c3c29c4b:0x3002dcadcf52513f!8m2!3d38.6915837!4d-9.2159773!16zL20vMDVnYng2",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g189158-d524074-Reviews-Torre_de_Belem-Lisbon_Lisbon_District_Central_Portugal.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Torre_de_Bel%C3%A9m%2C_Lisboa%2C_Portugal%2C_2012-05-12%2C_DD_18.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Belem.Torre09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/TorreBelem1-IPPAR.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Combat_du_Tage.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Sankoré Madrasah",
+    "location": "Timbuktu, Mali, Africa",
+    "summary": "A medieval mosque and centre of learning founded in the 14th century. The mosque developed into a madrasa (meaning a school or college in Arabic), reaching its peak in the 16th century. It went through multiple periods of patronage and renovation under both the Mali Empire and the Songhai Empire until its decline following the Battle of Tondibi in 1591.",
+    "build_year": 1500,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sankor%C3%A9_Madrasah",
+      "britannica": "https://www.britannica.com/place/Sankore-mosque",
+      "google_maps": "https://www.google.com/maps/place/Sankore+Mosquee/@16.7760627,-3.0081548,17z/data=!3m1!4b1!4m6!3m5!1s0xe17cfcde4287223:0x4a51fb7caac4e291!8m2!3d16.7760576!4d-3.0055745!16zL20vMDRxeHY1",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304007-d6949644-Reviews-Mosque_of_Sankore-Timbuktu_Tombouctou_Region.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/ef/2a/b7/sankore-mosque.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/2007_Sankore_Mosque_Timbuktu_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/Fortier_368_Timbuktu_Sankore_Mosque.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Venetian Arsenal",
+    "location": "Venice, Italy, Europe",
+    "summary": "A complex of former shipyards and armories clustered together in the city of Venice. Owned by the state, the Arsenal was responsible for the bulk of the Venetian Republic's naval power from the Late Middle Ages to the early modern period. It was \"one of the earliest large-scale industrial enterprises in history\".",
+    "build_year": 1104,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Venetian_Arsenal",
+      "britannica": "https://www.britannica.com/place/Arsenal-district-Venice-Italy",
+      "google_maps": "https://www.google.com/maps/place/Arsenale+di+Venezia/@45.4348539,12.3473206,17z/data=!3m1!4b1!4m6!3m5!1s0x477eae25ebd484eb:0x7580058aeacc7e86!8m2!3d45.4348502!4d12.3499009!16zL20vMDN0dHk0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187870-d24192294-Reviews-Venetian_Arsenal-Venice_Veneto.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Campo_de_l%27Arsenal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Arsenale_di_Venezia_towers.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Arsenale_%28Venice%29_-_The_Lion_of_Venice_on_the_pediment_of_the_arsenal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/View_of_the_entrance_to_the_Arsenal_by_Canaletto%2C_1732.jpg"
+      ]
+    },
+    "categories": [
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Göbekli Tepe",
+    "location": "Şanlıurfa, Turkey, Asia",
+    "summary": "A Neolithic archaeological site in the Southeastern Anatolia Region of Turkey. The settlement was inhabited from around 9500 to at least 8000 BCE, during the Pre-Pottery Neolithic. It is famous for its large circular structures that contain massive stone pillars – among the world's oldest known megaliths.",
+    "build_year": -9500,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "britannica": "https://www.britannica.com/place/Gobekli-Tepe",
+      "google_maps": "https://www.google.com/maps/place/G%C3%B6beklitepe/@37.2232631,38.9192514,17z/data=!3m1!4b1!4m6!3m5!1s0x153466b65f6e3a5f:0x1667510255794d71!8m2!3d37.2232589!4d38.9218317!16zL20vMDJrZ256",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g652373-d14803056-Reviews-Gobeklitepe-Sanliurfa_Sanliurfa_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b3/Urfa_G%C3%B6beklitepe_Building_B_5326.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/The_archaeological_site_of_G%C3%B6bekli_Tepe_-_main_excavation_area.png",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/c6/75/ef/caption.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Nazca Lines",
+    "location": "Nazca Desert, Peru, South America",
+    "summary": "A group of geoglyphs made in the soil of the Nazca Desert. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. Most lines run straight across the landscape, but there are also figurative designs of animals and plants. The combined length of all the lines is more than 1,300km.",
+    "build_year": 500,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Nazca_lines",
+      "britannica": "https://www.britannica.com/place/Nazca-Lines",
+      "google_maps": "https://www.google.com/maps/place/Nazca+Lines/@-14.7941967,-75.1071649,13z/data=!4m6!3m5!1s0x91141e46ccb532ad:0x1802d2b96697b591!8m2!3d-14.739027!4d-75.130005!16zL20vMDFmbnZn",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_54.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_61.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a5/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_52.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/4/48/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_55.JPG",
+        "https://cdn.britannica.com/41/153441-050-10B39A3A/Aerial-view-Nazca-Lines-northwest-Pampa-Colorada.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tarxien Temples",
+    "location": "Tarxien, Malta, Europe",
+    "summary": "An archaeological complex in Tarxien, in the Port region of Malta. They date to approximately 3150 BC. Of particular interest at the temple site is the rich and intricate stonework, which includes depictions of domestic animals carved in relief, altars, and screens decorated with spiral designs and other patterns.",
+    "build_year": -3150,
+    "time_period": "Prehistoric",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tarxien_Temples",
+      "google_maps": "https://www.google.com/maps/place/Tarxien+Temples/@35.8691842,14.5070567,17z/data=!3m1!4b1!4m6!3m5!1s0x130e5ae6bcca5aa1:0x6f4c3352d24ae7ca!8m2!3d35.86918!4d14.511933!16s%2Fm%2F02vqrss",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g1469134-d313298-Reviews-Tarxien_Temples-Tarxien_Island_of_Malta.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/70/Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malta_-_Tarxien_-_Triq_it-Tempji_Neolitici_-_Temples_26_ies.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/Tarxien_Temples_Malta_-_Tarxien_South_Temple_%28Doorway%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Altar_in_the_Southwestern_Tarxien_Temple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sir_Temi_Zammit%2C_Tarxien_temples_excavations%2C_1915.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Cahokia Mounds",
+    "location": "Collinsville, USA, North America",
+    "summary": "The site of a pre-Columbian Native American city which existed around 1050–1350 CE. It was the largest and most influential urban settlement of the Mississippian culture, which developed advanced societies across much of what is now the Central and the Southeastern United States, beginning more than 1,000 years before European contact.",
+    "build_year": 1000,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Cahokia",
+      "britannica": "https://www.britannica.com/place/Cahokia-Mounds",
+      "google_maps": "https://www.google.com/maps/place/Cahokia+Mounds+State+Historic+Site/@38.6550685,-90.0644031,17z/data=!3m1!4b1!4m6!3m5!1s0x87d8ab52d79595af:0x30679191aa51caf6!8m2!3d38.6550643!4d-90.0618228!16s%2Fm%2F06_0t1z",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g35832-d274020-Reviews-Cahokia_Mounds_State_Historic_Site-Collinsville_Illinois.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Monks_Mound_-_Summer_2024.jpg",
+        "https://cdn.britannica.com/52/101052-050-23D44BCC/Monks-Mound-structure-Cahokia-Mounds-State-Historic.jpg",
+        "https://cdn.britannica.com/55/66455-050-4CD7C423/Cahokia-Michael-Hampshire-painting-1150.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mississippian_culture_mound_components_HRoe_2011.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Moai",
+    "location": "Easter Island, Oceania",
+    "summary": "Monolithic human figures carved by the Rapa Nui people on Rapa Nui (Easter Island) in eastern Polynesia between the years 1250 and 1500. Nearly half are still at Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called ahu around the island's perimeter.",
+    "build_year": 1500,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Moai",
+      "britannica": "https://www.britannica.com/art/moai-figure",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g316040-d21194207-Ahu_Akivi_The_Seven_Moais_on_Easter_Island-Easter_Island.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cantera_de_moais.jpg",
+        "https://cdn.britannica.com/38/94538-050-83B18723/Moai-Easter-Island-Chile.jpg",
+        "https://cdn.britannica.com/86/99586-050-E43A9FAC/Moai-statues-Easter-Island.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/View_of_the_back_of_a_moai_with_petroglyph_carvings%2C_partially_excavated%3B_a_South_American_man_is_sitting_on_the_ground%2C_with_one_bare_foot_on_the_shoulder_of_the_sculpture%3B_Rano_Raraku%2C_Oc%2CG.T.1465%2C_Mana_Expedition_to_Easter_Island%2C_British_Museum.jpg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Masada",
+    "location": "Israel, Asia",
+    "summary": "An ancient fortification in Israel, situated on top of an isolated rock plateau, akin to a mesa. Herod the Great built two palaces for himself on the mountain and fortified Masada between 37 and 31 BCE. The fortress also contained a series of cisterns that were refilled by rainwater - with the runoff collected from a single day's rain allegedly able to sustain over 1,000 people for 2 to 3 years.",
+    "build_year": -37,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Masada",
+      "britannica": "https://www.britannica.com/place/Masada",
+      "google_maps": "https://www.google.com/maps/place/Masada,+Israel/@32.6829574,35.5930382,17z/data=!3m1!4b1!4m6!3m5!1s0x151c6a581695aa29:0xcbb81729338a8611!8m2!3d32.682305!4d35.597657!16s%2Fm%2F03h0twx",
+      "trip_advisor": "https://www.tripadvisor.com/Tourism-g13149292-Masada_Dead_Sea_Region-Vacations.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Flickr_-_Government_Press_Office_%28GPO%29_-_Masada_%281%29.jpg",
+        "https://cdn.britannica.com/13/166413-050-6A127D5E/Ruins-fortress-Masada-Israel-Dead-Sea.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Masada_051013_Chapel_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/Masada_BW_A.JPG"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tikal",
+    "location": "Flores, Guatemala, North America",
+    "summary": "The ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archeological sites and urban centers of the pre-Columbian Maya civilization. It was originally the capital of a conquest state that became one of the most powerful kingdoms of the ancient Maya.",
+    "build_year": 100,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tikal",
+      "britannica": "https://www.britannica.com/place/Tikal",
+      "google_maps": "https://www.google.com/maps/place/Tikal,+Guatemala/@17.2239582,-89.6261859,15z/data=!3m1!4b1!4m6!3m5!1s0x8f5fa6ca55526adb:0x12e1837f24e01655!8m2!3d17.2248941!4d-89.6110378!16s%2Fg%2F12xpws6r0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g292015-d10736302-Reviews-Tikal-Tikal_National_Park_Peten_Department.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tikal-Plaza-And-North-Acropolis.jpg",
+        "https://cdn.britannica.com/95/189895-050-C0C50BC5/Temple-Jaguar-Pyramid-Guatemala-Tikal.jpg",
+        "https://cdn.britannica.com/85/178085-050-32A2F137/Pyramid-II-relief-work-Temple-of-the.jpg",
+        "https://cdn.britannica.com/86/178086-050-4D30F694/Temples-forest-Tikal-Peten-Guatemala-National-Park.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Tikal1882.jpeg"
+      ]
+    },
+    "categories": [
+      "Civ5",
+      "Civ6"
+    ]
+  },
+  {
+    "name": "Karnak Temple Complex",
+    "location": "El-Karnak, Egypt, Africa",
+    "summary": "A vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I (1971–1926 BCE). The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head. It is part of the monumental city of Thebes.",
+    "build_year": -1375,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Karnak",
+      "britannica": "https://www.britannica.com/place/Karnak",
+      "google_maps": "https://www.google.com/maps/place/Karnak/@25.7188394,32.65469,17z/data=!3m1!4b1!4m6!3m5!1s0x1449159228fec0cd:0xc71ae8c008c259d8!8m2!3d25.7188346!4d32.6572703!16zL20vMDE0d3k0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d459885-Reviews-Temple_of_Karnak-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://cdn.britannica.com/01/178001-050-2DAD3B4E/temple-complex-Nile-River-Egypt-Karnak.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Temple_de_Louxor_53.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_41.jpg",
+        "https://cdn.britannica.com/20/153420-050-08901E99/Temple-Karnak-Egypt.jpg",
+        "https://cdn.britannica.com/92/99592-050-E7E20970/Relief-sculpture-area-Karnak-Luxor-Egypt.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/80/S03_06_01_018_image_2398.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/Hall_of_columns%2C_Karnac%2C_RP-F-F25403-AG.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tulum",
+    "location": "Tulum, Mexico, North America",
+    "summary": "The site of a pre-Columbian Mayan walled city which served as a major port for Coba, in the Mexican state of Quintana Roo. It was one of the last cities built and inhabited by the Maya and achieved its greatest prominence between the 13th and 15th centuries. It continued to be occupied for about 70 years after the Spanish began occupying Mexico, but was abandoned by the end of the 16th century.",
+    "build_year": 1300,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tulum",
+      "google_maps": "https://www.google.com/maps/place/Tulum/@20.2149554,-87.4320015,17z/data=!3m1!4b1!4m6!3m5!1s0x8f4fd17d16293265:0xff68d6fca492c963!8m2!3d20.2149504!4d-87.4294212!16zL20vMDF6c3c4",
+      "trip_advisor": "https://www.tripadvisor.com/AttractionProductReview-g150807-d15767449-Tulum_Ruins_and_Cenote_Guided_Tour_plus_Snacks-Cancun_Yucatan_Peninsula.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tulum_Maya-13.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/85/Tulum_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tulum_-_God_of_the_Winds_Temple_03.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tulum_-_12.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/TulumCatherwood1844.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Tiwanaku",
+    "location": "Tiwanaku, Bolivia, South America",
+    "summary": "A Pre-Columbian archaeological site in western Bolivia, it is one of the largest sites in South America. Surface remains currently cover around 4km² and include decorated ceramics, monumental structures, and megalithic blocks. In AD 800 the site has been conservatively estimated to have been inhabited by 10,000 to 20,000 people.",
+    "build_year": 600,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Tiwanaku",
+      "britannica": "https://www.britannica.com/place/Tiwanaku",
+      "google_maps": "https://www.google.com/maps/place/Tiwanaku+Archaeological+Complex/@-16.5556672,-68.6753725,17z/data=!3m1!4b1!4m6!3m5!1s0x915ebd095b253df7:0xb8501935a205e22a!8m2!3d-16.5556724!4d-68.6727922!16s%2Fg%2F11c6sl17cf",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g12920367-d554769-Reviews-Tiwanaku-Tiwanaku_La_Paz_Department.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tiwanaku_09.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Tiwanaku_-_Puerta_de_la_Luna_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e7/Monolito_Fraile_%28Tiwanaku%2C_Bolivia%29_%2836936733575%29.jpg",
+        "https://cdn.britannica.com/37/4937-050-7FB557FE/god-angels-Tiwanaku-Gateway-of-the-Sun.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/Posnansky_Fig_13.png"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pyramid of the Sun",
+    "location": "Teotihuacán, Mexico, North America",
+    "summary": "The largest building in Teotihuacan, and one of the largest in Mesoamerica. It is believed to have been constructed about 200 CE. Over the structure, the ancient Teotihuacanos finished their pyramid with lime plaster imported from surrounding areas, on which they painted brilliantly colored murals, though unfortunately the paint and plaster are no longer visible.",
+    "build_year": 100,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
+      "britannica": "https://www.britannica.com/place/Pyramid-of-the-Sun",
+      "google_maps": "https://www.google.com/maps/place/Pyramid+of+the+Sun/@19.6922779,-98.8460838,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ea845eb30ff9:0xad84278bbe6d0c38!8m2!3d19.6922729!4d-98.8435035!16zL20vMDkxdm1m",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g499421-d15026179-Reviews-Teotihuacan_Pyramids-San_Juan_Teotihuacan_Central_Mexico_and_Gulf_Coast.html",
+      "images": [
+        "https://cdn.britannica.com/02/147902-050-BA146002/Pyramid-of-the-Sun-city-Mexico-Teotihuacan.jpg",
+        "https://cdn.britannica.com/88/178088-050-1A92412B/Tourists-Pyramid-of-the-Sun-Mexico-Teotihuacan.jpg",
+        "https://cdn.britannica.com/73/117773-050-856A2EA6/Pyramid-of-the-Sun-Teotihuacan.jpg",
+        "https://cdn.britannica.com/04/196804-050-823CD643/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg",
+        "https://cdn.britannica.com/67/9067-004-C69929E4/Pyramid-of-the-Sun-Teotihuacan-Mexico.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Luxor Temple",
+    "location": "Luxor, Egypt, Africa",
+    "summary": "A large Ancient Egyptian temple complex located on the east bank of the Nile River in the city of ancient Thebes, and was constructed approximately 1400 BCE. To the rear of the temple are chapels built by Amenhotep III of the 18th Dynasty, and Alexander. Other parts of the temple were built by Tutankhamun and Ramesses II.",
+    "build_year": -1400,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Luxor_Temple",
+      "britannica": "https://www.britannica.com/place/Temple-of-Luxor",
+      "google_maps": "https://www.google.com/maps/place/Luxor+Temple/@25.6995068,32.6364706,17z/data=!3m1!4b1!4m6!3m5!1s0x144915c41edadf61:0x7693895c346c7d81!8m2!3d25.699502!4d32.6390509!16zL20vMDNwcDd2",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d318954-Reviews-Luxor_Temple-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c7/%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B1%D9%85%D8%B3%D9%8A%D8%B3_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%89_-_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A7%D9%82%D8%B5%D8%B1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/57/Luxor-Tempel_Sanktuar_Amenophis_III._01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_23.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f0/Abu_el-Haggag_R01.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Valley of the Kings",
+    "location": "Luxor, Egypt, Africa",
+    "summary": "An area in Egypt where, for a period of nearly 500 years from the Eighteenth Dynasty to the Twentieth Dynasty, rock-cut tombs were excavated for pharaohs and powerful nobles under the New Kingdom of ancient Egypt. It is a wadi sitting on the west bank of the Nile, opposite Thebes (modern-day Luxor) and within the heart of the Theban Necropolis.",
+    "build_year": -1075,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+      "britannica": "https://www.britannica.com/place/Valley-of-the-Kings",
+      "google_maps": "https://www.google.com/maps/place/Valley+of+the+Kings/@25.7425897,32.5964331,16z/data=!3m1!4b1!4m6!3m5!1s0x14493d8ab5defed7:0x718fccf6a2e3a9da!8m2!3d25.7401643!4d32.601411!16zL20vMDhtOHc2",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294205-d321166-Reviews-Valley_of_the_Kings-Luxor_Nile_River_Valley.html",
+      "images": [
+        "https://cdn.britannica.com/82/116482-050-72B23431/Mortuary-temple-Hatshepsut-Valley-of-the-Kings.jpg",
+        "https://cdn.britannica.com/59/25059-050-5E36B57C/tomb-Tutankhamun-Valley-of-the-Kings-Thebes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Valley_of_the_Kings_panorama.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/KV11_Tomb_of_Ramses_III_DSCF2941.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Abu Simbel Temples",
+    "location": "Abu Simbel, Egypt, Africa",
+    "summary": "An historic site comprising two massive rock-cut temples in the village of Abu Simbel. The twin temples were originally carved out of the mountainside in the 13th century BC, during the 19th Dynasty reign of the Pharaoh Ramesses II. Their huge external rock relief figures of Ramesses II have become iconic. His wife, Nefertari, and children can be seen in smaller figures by his feet.",
+    "build_year": -1264,
+    "time_period": "Ancient",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Abu_Simbel",
+      "britannica": "https://www.britannica.com/place/Abu-Simbel",
+      "google_maps": "https://www.google.com/maps/place/Abu+Simbel+Temples/@22.3536434,31.4863861,11z/data=!4m15!1m8!3m7!1s0x143aaa0c0b2b0255:0xd72413107b5e4b58!2sAbu+Simbel,+Aswan+Governorate,+Egypt!3b1!8m2!3d22.11231!4d31.6739371!16s%2Fg%2F11h56n6dzn!3m5!1s0x143aa988b126055b:0xa7d3cc6618f898d2!8m2!3d22.3372319!4d31.625799!16zL20vMDF4am5r",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g297540-d317826-Reviews-Abu_Simbel_Temple_Complex-Abu_Simbel_Aswan_Governorate_Nile_River_Valley.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Templo_de_Nefertari%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_153.jpg",
+        "https://cdn.britannica.com/27/178127-050-3C447D4F/statues-entrance-Ramses-II-Great-Temple-Aswan.jpg",
+        "https://cdn.britannica.com/82/182-050-CF0C8845/Entrance-Nubian-cliff-temple-Abu-Simbel-Ramses-c-1250-bce.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/90/Maxime_Du_Camp_%28French_-_Westernmost_Colossus%2C_the_Great_Temple%2C_Abu_Simbel_-_Google_Art_Project.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/S10.08_Abu_Simbel%2C_image_9505.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Gate of All Nations",
+    "location": "Persepolis, Iran, Asia",
+    "summary": "Also known as the Gate of Xerxes, is located in the ruins of the ancient city of Persepolis, Iran. The construction was ordered by the Achaemenid king Xerxes I. It is from an inscription in the gate, known as the XPa inscription, that the building's name is known. The text is trilingual: to the left and right of the Old Persian inscription are Babylonian and Elamite translations.",
+    "build_year": -465,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Gate_of_All_Nations",
+      "google_maps": "https://www.google.com/maps/place/Gate+of+All+Nations%E2%80%8C/@29.9361674,52.8864277,17z/data=!3m1!4b1!4m6!3m5!1s0x3fade35be0e25557:0x1b44204c7878d78a!8m2!3d29.9361628!4d52.889008!16s%2Fm%2F0jky4y_",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/20101229_Gates_of_the_nations_Persepolis_Iran.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ea/Persepolis_24.11.2009_11-06-03.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Persepolis_24.11.2009_11-12-38.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ae/Persepolis_24.11.2009_13-10-19.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Persepolis_24.11.2009_13-10-33.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Roman Forum",
+    "location": "Rome, Italy, Europe",
+    "summary": "A rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings which has been called the most celebrated meeting place in all history. For centuries, it was the centre of day-to-day life in Rome: the site of triumphal processions and elections; the venue for public speeches, criminal trials and gladiatorial matches; and the nucleus of commercial affairs.",
+    "build_year": -50,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Roman_Forum",
+      "britannica": "https://www.britannica.com/topic/Roman-Forum",
+      "google_maps": "https://www.google.com/maps/place/Roman+Forum/@41.8920946,12.4838575,17z/data=!3m1!4b1!4m6!3m5!1s0x132f61b383a9cdef:0xfa914007c0ec7de6!8m2!3d41.8920906!4d12.4864378!16zL20vMG4xNnQ",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/2012-02-17_Foro_Romano_da_Palazzo_Senatorio_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/28/Rome-_Ruins_of_the_Forum%2C_Looking_towards_the_Capitol.jpg",
+        "https://cdn.britannica.com/41/179041-050-E6FBB5E1/Temple-of-Vesta-Roman-Forum-Rome.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pont du Gard",
+    "location": "Vers-Pont-du-Gard, France, Europe",
+    "summary": "An ancient Roman aqueduct bridge built in the first century AD to carry water over 50km to the Roman colony of Nemausus. It is one of the best preserved Roman aqueduct bridges. The bridge has three tiers of arches made from Shelly limestone and stands 48.8m high. The aqueduct formerly carried an estimated 40,000m³ of water a day.",
+    "build_year": 60,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+      "britannica": "https://www.britannica.com/topic/Pont-du-Gard",
+      "google_maps": "https://www.google.com/maps/place/Pont+du+Gard/@43.9475698,4.5323797,17z/data=!3m1!4b1!4m6!3m5!1s0x12b5c8c248e704d5:0x26b17319f386eae2!8m2!3d43.947566!4d4.53496!16zL20vMDFjNDJf",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g651718-d197785-Reviews-Pont_du_Gard-Vers_Pont_du_Gard_Gard_Occitanie.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg",
+        "https://cdn.britannica.com/56/112156-050-E0CDD0A3/aqueduct-Pont-du-Gard-Roman-France-Nimes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pont_du_Gard_pont_moderne.jpg",
+        "https://cdn.britannica.com/09/5809-050-E2807D28/Pont-du-Gard-aqueduct-Roman-France-Nimes.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pont-de-gard-clerisseau-1804.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pantheon",
+    "location": "Rome, Italy, Europe",
+    "summary": "A former Roman temple and, since AD 609, a Catholic church in Rome. The present building was ordered by the emperor Hadrian after the original earlier temple, which was commissioned by Marcus Vipsanius Agrippa during the reign of Augustus, burnt down. It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history.",
+    "build_year": 125,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+      "britannica": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy",
+      "google_maps": "https://www.google.com/maps/place/Pantheon/@41.8986147,12.4719966,17z/data=!3m1!4b1!4m6!3m5!1s0x132f604f678640a9:0xcad165fa2036ce2c!8m2!3d41.8986108!4d12.4768729!16zL20vMDF4emR6",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187791-d197714-Reviews-Pantheon-Rome_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pantheon_Rom_1_cropped.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/20190406-DSC5193_Panteon.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2a/Einblick_Panorama_Pantheon_Rom.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/Rome-Pantheon.jpg",
+        "https://cdn.britannica.com/97/95797-050-023E5852/Interior-canvas-oil-Pantheon-Rome-Giovanni-Paolo-1732.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Diocletian's Palace",
+    "location": "Split, Croatia, Europe",
+    "summary": "Built at the end of the third century AD as a residence for the Roman emperor Diocletian, it is referred to as a \"palace\" because of its intended use as a retirement residence. The term can be misleading as the structure is massive and more resembles a large fortress: about half of it was for Diocletian's personal use, and the rest housed the military garrison.",
+    "build_year": 300,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Diocletian's_Palace",
+      "britannica": "https://www.britannica.com/topic/Palace-of-Diocletian",
+      "google_maps": "https://www.google.com/maps/place/Diocletian's+Palace/@43.5077883,16.438568,17.33z/data=!4m6!3m5!1s0x13355dfe535cfc4f:0x921ac62569576f32!8m2!3d43.5082646!4d16.4401754!16zL20vMDV5dmxk",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g295370-d23736149-Reviews-Diocletian_Palace_Substructures-Split_Split_Dalmatia_County_Dalmatia.html",
+      "images": [
+        "https://cdn.britannica.com/68/95568-050-A0955C0F/Palace-of-Diocletian-Split-Croatia.jpg",
+        "https://cdn.britannica.com/92/153492-050-013C7E16/Palace-of-Diocletian-Split-Croatia.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Sv._Duje_cathedral%2C_Split%2C_Croatia.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Diocletian%27s_Palace%2C_Split_%2811908066464%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/Diocletian%27s_Palace_substructure_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Peristyle_of_Diocletian%27s_Palace_in_Split%2C_Robert_Adam%2C_1764_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/Diocletian%27s_Palace_%28original_appearance%29.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Palenque",
+    "location": "Palenque, Mexico, North America",
+    "summary": "A Maya city state in southern Mexico that perished in the 8th century. The ruins date from around 226 BC to 799 AD, though the famous structures that we know today come from a rebuilding effort by Pacal the Great (615-683 AD) after attacks by the city of Calakmul. It contains some of the finest architecture, sculpture, roof comb and bas-relief carvings that the Mayas produced.",
+    "build_year": 615,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Palenque",
+      "britannica": "https://www.britannica.com/place/Palenque-ancient-city-Mexico",
+      "google_maps": "https://www.google.com/maps/place/Zona+Arqueol%C3%B3gica+Palenque/@17.4847748,-92.0484752,17z/data=!3m1!4b1!4m6!3m5!1s0x85f244c777bddbdd:0x6ebbea71995ddcf1!8m2!3d17.4847697!4d-92.0458949!16zL20vMGsxZDA",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g249851-d4074608-Reviews-Zona_Arqueologica_de_Palenque-Palenque_Southern_Mexico.html",
+      "images": [
+        "https://cdn.britannica.com/66/75966-050-BEAF3FFE/watchtower-palace-Palenque-Mexico.jpg",
+        "https://cdn.britannica.com/86/189886-050-01925076/Temple-of-the-Sun-Palenque-XIV-Inscriptions.jpg",
+        "https://cdn.britannica.com/39/178939-050-7E061C14/Temple-of-the-Inscriptions-Palenque-XIII-Mexico.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tumba_de_pakal%2C_Chiapas.JPG",
+        "https://cdn.britannica.com/24/94524-050-14847C61/Mayan-Temple-of-the-Inscriptions-Palenque-Mex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c6/UpperMiddleTempleInscriptions.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Temple of Heaven",
+    "location": "Beijing, China, Asia",
+    "summary": "A complex of imperial religious buildings which was visited by the Emperors of the Ming and Qing dynasties for annual ceremonies of prayer to Heaven for a good harvest. The temple complex was constructed from 1406 to 1420 during the reign of the Yongle Emperor of Ming Dynasty, who was also responsible for the construction of the Forbidden City.",
+    "build_year": 1420,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
+      "britannica": "https://www.britannica.com/topic/Temple-of-Heaven",
+      "google_maps": "https://www.google.com/maps/place/Temple+of+Heaven/@39.8820432,116.4027162,16.33z/data=!4m6!3m5!1s0x35f04d6019ff91eb:0x372c15453b110e6a!8m2!3d39.8821803!4d116.4066056!16zL20vMGo2Mzg",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294212-d311534-Reviews-Temple_of_Heaven-Beijing.html",
+      "images": [
+        "https://cdn.britannica.com/41/178641-050-0FCF7D98/Hall-of-Prayer-for-Good-Harvests-complex.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Temple_of_Heaven%2C_Beijing%2C_China_-_010_edit.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Temple_of_Heaven%2C_Beijing%2C_China_-_006.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Temple_of_Heaven%2C_Beijing%2C_China_-_012.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hall_of_Prayer_for_Good_Harvests_interior_2014.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c8/Peking_%28Beijing%29_Nebeski_hram_~_1898..jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Pura Ulun Danu Bratan",
+    "location": "Bali, Indonesia, Asia",
+    "summary": "A major Hindu Shaivite temple in Bali. Built in 1633, the temple is used for offerings and ceremonies dedicated to the Balinese water, lake and river goddess Dewi Danu, due to the importance of Lake Bratan as a main source of irrigation in central Bali. The 11-storey pelinggih meru in the complex is dedicated to Shiva and his consort Parvathi. Buddha's statue is also enshrined in this temple.",
+    "build_year": 1633,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Pura_Ulun_Danu_Bratan",
+      "google_maps": "https://www.google.com/maps/place/Ulun+Danu+Beratan+Temple/@-8.2751754,115.1642431,17z/data=!3m1!4b1!4m6!3m5!1s0x2dd1896c9fac0857:0x18246568e4db1b53!8m2!3d-8.2751807!4d115.1668234!16s%2Fm%2F05zyg1h",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g608496-d447061-Reviews-Ulun_Danu_Bratan_Temple-Tabanan_Bali.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/77/Pura_Ulun_Danu_Bratan%2C_2022.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c0/Brantan_Bali_Pura-Ulun-Danu-Bratan-01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Brantan_Bali_Pura-Ulun-Danu-Bratan-02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bali%2C_Indonesia_%2850368691146%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/COLLECTIE_TROPENMUSEUM_Balinees_tempelcomplex._TMnr_60004821.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Umayyad Mosque",
+    "location": "Damascus, Syria, Asia",
+    "summary": "Also known as the Great Mosque of Damascus, it is one of the largest and oldest mosques in the world. Its religious importance stems from the eschatological reports concerning the mosque, and historic events associated with it. The site has been used as a house of worship since the Iron Age.",
+    "build_year": 715,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Umayyad_Mosque",
+      "britannica": "https://www.britannica.com/topic/Great-Mosque-of-Damascus",
+      "google_maps": "https://www.google.com/maps/place/Umayyad+Mosque/@33.511332,36.3068932,17z/data=!3m1!4b1!4m6!3m5!1s0x1518e6d61fc6c047:0x460d2bef9641dbeb!8m2!3d33.511332!4d36.3068932!16zL20vMDdkbXYw",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g294011-d561047-Reviews-Damascus_Umayyad_Mosque-Damascus.html",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/eb/32/93/an-amazing-place-to-visit.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d5/Umayyad_Mosque%2C_Damascus.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Umayyad_Mosque-Dome_of_the_Treasury211099.jpg",
+        "https://cdn.britannica.com/31/91331-050-AB1EB07B/entrance-Great-Mosque-Damascus-Umayyads.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/63/Umayyad_Mosquee_panoramic.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Damas_de_la_terrasse_Baudin.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Mosque–Cathedral of Córdoba",
+    "location": "Córdoba, Spain, Europe",
+    "summary": "Officially known by its ecclesiastical name of Cathedral of Our Lady of the Assumption, is the cathedral of the Diocese of Córdoba. Due to its status as a former mosque, it is also known as the Mezquita and as the Great Mosque of Córdoba. The Great Mosque was constructed in 785 on the orders of Abd al-Rahman I, founder of the Islamic Emirate of Córdoba.",
+    "build_year": 785,
+    "time_period": "PostClassical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+      "britannica": "https://www.britannica.com/topic/Mosque-Cathedral-of-Cordoba",
+      "google_maps": "https://www.google.com/maps/place/Mosque-Cathedral+of+C%C3%B3rdoba/@37.8789098,-4.7819672,17z/data=!3m1!4b1!4m6!3m5!1s0xd6d2082ce1a16cf:0xefebc353f81bf636!8m2!3d37.8789056!4d-4.7793869!16zL20vMDNjYmtf",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187430-d27152546-Reviews-Mosque_Cathedral_of_Cordoba-Cordoba_Province_of_Cordoba_Andalucia.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/20/Cordoba_Cathedral_2024_-_Tower_from_the_Patio.jpg",
+        "https://cdn.britannica.com/44/181044-050-95D17A9C/Mosque-Cathedral-of-Cordoba-Spain.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Cordoba_8390_%2818679387532%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/59/Colonnes_de_la_Mezquita_%288281472877%29.jpg",
+        "https://cdn.britannica.com/92/121392-050-BC985DE0/Dome-mihrab-Mosque-Cathedral-of-Cordoba-Spain.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "St. Peter's Basilica",
+    "location": "Vatican City, Europe",
+    "summary": "A church of the Italian High Renaissance located in Vatican City. It was initially planned in the 15th century to replace the ageing Old St. Peter's Basilica, which was built in the fourth century by Roman emperor Constantine the Great. It has been described as \"holding a unique position in the Christian world\", and as \"the greatest of all churches of Christendom\".",
+    "build_year": 1626,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+      "britannica": "https://www.britannica.com/topic/Saint-Peters-Basilica",
+      "google_maps": "https://www.google.com/maps/place/St.+Peter's+Basilica/@41.9021667,12.4539367,17z/data=!3m1!4b1!4m6!3m5!1s0x132f6061b7149b59:0x724bf077cd875283!8m2!3d41.9021667!4d12.4539367!16zL20vMGpueW0",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g187793-d631111-Reviews-St_Peter_s_Basilica-Vatican_City_Lazio.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/PonteSantAngeloRom.jpg",
+        "https://cdn.britannica.com/96/175196-050-EA0EF9D1/St-Peters-Basilica-Vatican-City.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Chair_of_Saint_Peter_adjusted.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Citt%C3%A0_del_vaticano.Basilica_di_San_Pietro._Interno_della_cupola._Maggio_2010_-_panoramio.jpg",
+        "https://cdn.britannica.com/82/138682-050-B653AE04/Pieta-Michelangelo-St-Peters-Basilica-Rome.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Registan",
+    "location": "Samarkand, Uzbekistan, Asia",
+    "summary": "This was the heart of the city of Samarkand of the Timurid Empire, now in Uzbekistan. It was a public square, where people gathered to hear royal proclamations, and a place of public executions. It is framed by three madrasahs (Islamic schools) of distinctive Persian architecture. The square was regarded as the hub of the Timurid Renaissance.",
+    "build_year": 1660,
+    "time_period": "EarlyModern",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Registan",
+      "google_maps": "https://www.google.com/maps/place/Registan+Square/@39.6548711,66.9730359,17z/data=!3m1!4b1!4m6!3m5!1s0x3f4d18b7c2e59337:0x532c8e039ecc92af!8m2!3d39.654867!4d66.9756162!16zL20vMDNxeTZi",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g298068-d317897-Reviews-Registan-Samarkand_Samarqand_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Registan_square_Samarkand.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/Rajasthan3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/38/Sher-Dor_Madrasa_02.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Tilya-Kori_Madrasa_01.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Registan_02.jpg"
+      ]
+    },
+    "categories": []
+  },
+  {
+    "name": "Sigiriya",
+    "location": "Sigiriya, Sri Lanka, Asia",
+    "summary": "An ancient rock fortress which is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180m high. King Kashyapa (AD 477–495) built the palace on top of this rock and decorated its sides with colourful frescoes. On a small plateau about halfway up the side of this rock he built a gateway in the form of an enormous lion.",
+    "build_year": 480,
+    "time_period": "Classical",
+    "links": {
+      "wiki": "https://en.wikipedia.org/wiki/Sigiriya",
+      "britannica": "https://www.britannica.com/place/Sigiriya",
+      "google_maps": "https://www.google.com/maps/place/Sigiriya,+Sri+Lanka/@7.9546993,80.7339142,15z/data=!3m1!4b1!4m6!3m5!1s0x3afca0dfa73179d1:0x1e04c1150cff0edf!8m2!3d7.9541085!4d80.754698!16s%2Fm%2F0b6jy8p",
+      "trip_advisor": "https://www.tripadvisor.com/Attraction_Review-g304141-d4782530-Reviews-Sigiriya_The_Ancient_Rock_Fortress-Sigiriya_Central_Province.html",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
+        "https://cdn.britannica.com/34/153534-050-4F11E9C6/rock-pillar-ruins-stronghold-Sri-Lanka-Sigiriya.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sigiriya_Luftbild_%2829781064900%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sigiriya_lion_gate_04.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Frescoes_at_Sigiriya-at_cobra_cave%2C_Sri_lanka.jpg"
+      ]
+    },
+    "categories": []
+  }
+]
